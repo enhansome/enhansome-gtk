@@ -1,0 +1,4022 @@
+{
+  "items": [
+    {
+      "description": "You can find the most up-to-date info on the most well-supported GNOME apps at Apps for GNOME; this list aims to be broader and include apps from various other ecosystems in various states of maintenance.",
+      "items": [],
+      "title": "Apps for GNOME"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Audio"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Audio Players"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Quod Libet",
+          "description": "Cross-platform audio player providing many different ways to view local libraries .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T20:33:33Z",
+            "owner": "quodlibet",
+            "repo": "quodlibet",
+            "stars": 1748
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Resonance",
+          "description": "Music player with MPRIS support, Discord Rich presence and Last.fm scrobbling .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-06-17T12:25:34Z",
+            "owner": "nate-xyz",
+            "repo": "resonance",
+            "stars": 429
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Muzika",
+          "description": "Music player with customizable home screen and Google Music integration .",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-07-20T18:25:42Z",
+            "owner": "vixalien",
+            "repo": "muzika",
+            "stars": 318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "elementary Music",
+          "description": "Official music player for elementary OS .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-07-25T23:02:10Z",
+            "owner": "elementary",
+            "repo": "music",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HBud",
+          "description": "Audio and video player with karaoke features .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-16T14:43:50Z",
+            "owner": "swanux",
+            "repo": "hbud",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Victrola",
+          "description": "tauOS's minimal player .",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vala",
+            "last_commit": "2026-07-02T01:10:35Z",
+            "owner": "tau-OS",
+            "repo": "victrola",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Music Players"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "High Tide",
+          "description": "Tidal streaming client .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T20:01:51Z",
+            "owner": "Nokse22",
+            "repo": "high-tide",
+            "stars": 659
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Riff",
+          "description": "Spotify (premium) client for the GNOME desktop with MPRIS integration based on librespot, fork of Spot .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T16:35:16Z",
+            "owner": "Diegovsky",
+            "repo": "riff",
+            "stars": 277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Subsound-GTK",
+          "description": "Subsonic compatible music player .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-09T11:44:10Z",
+            "owner": "subsoundorg",
+            "repo": "Subsound",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Audio Streaming Service Clients"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Euphonica",
+          "description": "Feature-packed MPD client with MPIRS support, customisable spectrum visualiser, dBFS readout support and more .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T14:06:16Z",
+            "owner": "htkhiem",
+            "repo": "euphonica",
+            "stars": 855
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mpdevil",
+          "description": "MPD music browser with MPRIS interface .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T20:42:02Z",
+            "owner": "SoongNoonien",
+            "repo": "plattenalbum",
+            "stars": 252
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sonata",
+          "description": "MPD client with tag editor and audio scrobbling support, currently looking for a new maintainer .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-09T09:08:16Z",
+            "owner": "multani",
+            "repo": "sonata",
+            "stars": 132
+          }
+        }
+      ],
+      "title": "MPD Clients"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Parlatype",
+          "description": "Minimal audio player for manual speech transcription .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-22T05:01:20Z",
+            "owner": "gkarsay",
+            "repo": "parlatype",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReCast",
+          "description": "Application for audio and video transcription on the GNOME desktop utilizing (faster-)whisper .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-12T06:11:50Z",
+            "owner": "hardcoeur",
+            "repo": "recast",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Transcription"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SongRec",
+          "description": "Shazam GUI client .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T13:42:35Z",
+            "owner": "marin-m",
+            "repo": "SongRec",
+            "stars": 1927
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lyrebird",
+          "description": "(archived) Voice changer based on SoX .",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-12-13T17:04:07Z",
+            "owner": "lyrebird-voice-changer",
+            "repo": "lyrebird",
+            "stars": 1859
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pwvucontrol",
+          "description": "PipeWire volume mixer .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T19:45:02Z",
+            "owner": "saivert",
+            "repo": "pwvucontrol",
+            "stars": 680
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tagger",
+          "description": "Music tag (metadata) editor .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-08-07T13:09:32Z",
+            "owner": "NickvisionApps",
+            "repo": "Tagger",
+            "stars": 312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cavalier",
+          "description": "Audio visualizer based on CAVA .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-04-21T03:46:31Z",
+            "owner": "NickvisionApps",
+            "repo": "Cavalier",
+            "stars": 272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Myxer",
+          "description": "PulseAudio volume mixer .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-10-29T20:45:46Z",
+            "owner": "Aurailus",
+            "repo": "Myxer",
+            "stars": 264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reco",
+          "description": "Audio recorder .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-07-27T23:15:48Z",
+            "owner": "ryonakano",
+            "repo": "reco",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simple Wireplumber GUI",
+          "description": "WirePlumber (PipeWire session manager) GUI to rename devices and show properties. .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-26T14:35:31Z",
+            "owner": "dyegoaurelio",
+            "repo": "simple-wireplumber-gui",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Whisper",
+          "description": "Application to listen to the microphone through the speakers .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-18T09:44:18Z",
+            "owner": "mijorus",
+            "repo": "whisper",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chronograph",
+          "description": "Application to sync lyrics of songs and contribute it to various resources .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-15T18:06:18Z",
+            "owner": "Dzheremi2",
+            "repo": "Chronograph",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pro Audio Config",
+          "description": "Professional audio configuration tool to manage PipeWire and ALSA audio settings, incl. sample rates, bit depths, and buffer sizes .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-25T13:20:51Z",
+            "owner": "Peter-L-SVK",
+            "repo": "pro_audio_config",
+            "stars": 42
+          }
+        }
+      ],
+      "title": "Audio Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ALSA Scarlett2 Control Panel (alsa-scarlett-gui)",
+          "description": "GUI for the Focusrite USB audio interfaces (Scarlett Gen 2, 3, 4, Clarett, and Vocaster) for instrument, microphone or MIDI recording .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-22T19:03:02Z",
+            "owner": "geoffreybennett",
+            "repo": "alsa-scarlett-gui",
+            "stars": 1305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Drum Machine",
+          "description": "Drum machine application to create and play drum beats .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T11:36:00Z",
+            "owner": "Revisto",
+            "repo": "drum-machine",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SysEx Controls",
+          "description": "Application for configuring MIDI devices from Akai and Arturia .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-07T16:47:33Z",
+            "owner": "soyersoyer",
+            "repo": "sysex-controls",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Glight",
+          "description": "DMX controller software for live control of stage lighting, suitable for shows and events .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-12T20:47:14Z",
+            "owner": "aroffringa",
+            "repo": "glight",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chromatic",
+          "description": "Instruments tuner .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-03-15T01:54:27Z",
+            "owner": "nate-xyz",
+            "repo": "chromatic",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Oscmix",
+          "description": "Mixer for RME Fireface Devices in CC Mode. Currently supported: 802, UCX, UCX II, UFX+, UFX II, UFX III .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-03T12:06:01Z",
+            "owner": "huddx01",
+            "repo": "oscmix",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amp Rack",
+          "description": "Guitar / voice audio effects processor for PC (Linux, Windows) and Android .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-03-26T17:35:35Z",
+            "owner": "djshaji",
+            "repo": "alana",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tempo",
+          "description": "Metronome application with professional-grade accuracy, customizable tempo (40-240 BPM), multiple time signatures, visual beat indicators, and tap tempo functionality .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-06-03T19:58:51Z",
+            "owner": "tobagin",
+            "repo": "tempo",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Music Software"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Video"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Celluloid",
+          "description": "(ex GNOME MPV) frontend for MPV .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-17T10:43:07Z",
+            "owner": "celluloid-player",
+            "repo": "celluloid",
+            "stars": 1446
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clapper",
+          "description": "Media player powered by GStreamer with OpenGL rendering .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-20T15:32:52Z",
+            "owner": "Rafostar",
+            "repo": "clapper",
+            "stars": 973
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Glide",
+          "description": "Simple video player powered by GStreamer .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T13:50:15Z",
+            "owner": "philn",
+            "repo": "glide",
+            "stars": 286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Videos",
+          "description": "Video player and library application for elementary OS .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-08-01T20:47:26Z",
+            "owner": "elementary",
+            "repo": "videos",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Livi",
+          "description": "Minimalistic video player for mobile devices powered by GStreamer .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-07-26T14:13:14Z",
+            "owner": "PhoshMobi",
+            "repo": "livi",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Video Players"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Multiplex",
+          "description": "Application to stream and watch torrents together, providing an experience similar to Apple's SharePlay and Amazon's Prime Video Watch Party .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-11T03:08:18Z",
+            "owner": "pojntfx",
+            "repo": "multiplex",
+            "stars": 393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TVDemon",
+          "description": "IPTV streaming application with support for live TV, movies and series .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T21:49:37Z",
+            "owner": "DYefremov",
+            "repo": "TVDemon",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "Live Stream Viewers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kooha",
+          "description": "Distraction-free screen recorder .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-29T21:01:53Z",
+            "owner": "SeaDve",
+            "repo": "Kooha",
+            "stars": 3475
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kazam2",
+          "description": "Versatile tool for screen recording, broadcasting, capturing and optical character recognition .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-29T05:54:34Z",
+            "owner": "henrywoo",
+            "repo": "kazam",
+            "stars": 386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wayfarer",
+          "description": "Screen Recorder for GNOME / Wayland / Pipewire .",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vala",
+            "last_commit": "2025-10-25T07:55:01Z",
+            "owner": "stronnag",
+            "repo": "wayfarer",
+            "stars": 137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RecApp",
+          "description": "(archived) Simple screencasting application based on GStreamer .",
+          "children": []
+        }
+      ],
+      "title": "Screen Recorders"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cameractrls",
+          "description": "GUI and camera viewer (SDL) to set the camera controls (V4L2 or extensions) in Linux .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-16T22:39:28Z",
+            "owner": "soyersoyer",
+            "repo": "cameractrls",
+            "stars": 937
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "media-toc",
+          "description": "Application to build a table of contents from a media or to split a media file into chapters .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-04-04T07:57:04Z",
+            "owner": "fengalin",
+            "repo": "media-toc",
+            "stars": 73
+          }
+        }
+      ],
+      "title": "Video Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Graphics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ASCII Draw",
+          "description": "App to draw diagrams or anything using only ASCII .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-16T10:50:02Z",
+            "owner": "Nokse22",
+            "repo": "ascii-draw",
+            "stars": 534
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Halftone",
+          "description": "Image to pixel art converter .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-29T20:27:51Z",
+            "owner": "tfuxu",
+            "repo": "Halftone",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Letterpress",
+          "description": "Image to ASCII art converter using jp2a .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-12-16T21:43:32Z",
+            "owner": "Talinx",
+            "repo": "jp2a",
+            "stars": 99
+          }
+        }
+      ],
+      "title": "ASCII/Pixel Art"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pix",
+          "description": "Image viewer and browser .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-08T14:15:20Z",
+            "owner": "linuxmint",
+            "repo": "pix",
+            "stars": 265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vipsdisp",
+          "description": "Image viewer capable of displaying huge (i.e. GB sizes) images based on and supporting many scientific and technical image formats .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-20T10:44:48Z",
+            "owner": "libvips",
+            "repo": "vipsdisp",
+            "stars": 230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fotema",
+          "description": "Photo gallery with support for iOS Live Photos and Android motion photos .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T02:10:21Z",
+            "owner": "blissd",
+            "repo": "fotema",
+            "stars": 191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Image Roll",
+          "description": "Simple and fast image viewer with basic image manipulation tools .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-07-07T20:51:23Z",
+            "owner": "weclaw1",
+            "repo": "image-roll",
+            "stars": 191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Photos",
+          "description": "Photo viewer and organizer for elementary OS .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-08-12T15:08:59Z",
+            "owner": "elementary",
+            "repo": "photos",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Memento",
+          "description": "Meme browser, search and tagger with OCR tagging .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-25T21:23:34Z",
+            "owner": "SelfRef",
+            "repo": "memento",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MView6",
+          "description": "High-performance PDF and photo viewer for large photo and document collections .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-22T18:00:43Z",
+            "owner": "newinnovations",
+            "repo": "MView6",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Image Viewers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Raster Graphics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Drawing",
+          "description": "Simple image editor similar to Microsoft paint designed for the GNOME desktop .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-28T18:29:19Z",
+            "owner": "maoschanz",
+            "repo": "drawing",
+            "stars": 859
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Annotator",
+          "description": "Image annotation application designed for elementary OS .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-07-17T01:53:19Z",
+            "owner": "phase1geo",
+            "repo": "Annotator",
+            "stars": 275
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conjure",
+          "description": "Image enhancer based on ImageMagick .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-19T13:52:27Z",
+            "owner": "nate-xyz",
+            "repo": "conjure",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RS-Paint",
+          "description": "A light-weight image editor inspired by MS-Paint .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-21T04:28:41Z",
+            "owner": "lucasscharenbroch",
+            "repo": "rs-paint",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Drawing & Editing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fig",
+          "description": "GIF editor (cropping, trimming, reversing, removing/extracting frames) .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-10T13:13:31Z",
+            "owner": "Q1CHENL",
+            "repo": "fig",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gifup",
+          "description": "Video-to-GIF converter .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2021-04-06T19:52:23Z",
+            "owner": "BharatKalluri",
+            "repo": "Gifup",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "GIF"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Horizon",
+          "description": "EDA package supporting an integrated end-to-end workflow for printed circuit design .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-28T21:09:37Z",
+            "owner": "horizon-eda",
+            "repo": "horizon",
+            "stars": 1306
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xdot.py",
+          "description": "Interactive viewer for graphs written in Graphviz .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-19T08:59:49Z",
+            "owner": "jrfonseca",
+            "repo": "xdot.py",
+            "stars": 939
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Design",
+          "description": "2D CAD application with DXF format support .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-05T21:33:44Z",
+            "owner": "dubstar-04",
+            "repo": "Design",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Delineate",
+          "description": "Graphviz DOT graphs viewer and editor .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T16:51:51Z",
+            "owner": "SeaDve",
+            "repo": "Delineate",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rlr",
+          "description": "Interactive pixel screen ruler and protractor .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-09-15T23:06:30Z",
+            "owner": "epilys",
+            "repo": "rlr",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Focus Annotator",
+          "description": "Tool to annotate the focus plane of z-stacked images .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-09-25T06:56:32Z",
+            "owner": "13hannes11",
+            "repo": "focus_annotator",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GraphUI",
+          "description": "Graph visualization based on Graphviz .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2022-02-24T10:14:30Z",
+            "owner": "artemanufrij",
+            "repo": "graphui",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Photometric Viewer (Photometry)",
+          "description": "IESNA and EULUMDAT photometric files viewer .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T15:24:51Z",
+            "owner": "dlippok",
+            "repo": "photometric-viewer",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Technical Graphics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Birdfont",
+          "description": "Font editor for creating fonts in TTF, EOT, SVG and BIRDFONT formats .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2025-11-23T19:49:15Z",
+            "owner": "johanmattssonm",
+            "repo": "birdfont",
+            "stars": 550
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Font Downloader",
+          "description": "Download utility for Google Fonts .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-18T21:06:31Z",
+            "owner": "GustavoPeredo",
+            "repo": "Font-Downloader",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mingle",
+          "description": "Application to combine emojis using Google's Emoji Kitchen .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-04-09T17:13:27Z",
+            "owner": "halfmexican",
+            "repo": "mingle",
+            "stars": 53
+          }
+        }
+      ],
+      "title": "Vector & Fonts"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Multimedia"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Parabolic",
+          "description": "yt-dlp graphical fronted .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-29T03:59:31Z",
+            "owner": "NickvisionApps",
+            "repo": "Parabolic",
+            "stars": 6844
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gydl",
+          "description": "GUI wrapper around youtube-dl .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-28T09:46:41Z",
+            "owner": "JannikHv",
+            "repo": "gydl",
+            "stars": 156
+          }
+        }
+      ],
+      "title": "Media Downloaders"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Aviator",
+          "description": "Utility for encoding with SVT-AV1 & Opus .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-25T04:20:43Z",
+            "owner": "gianni-rosato",
+            "repo": "aviator",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Selene",
+          "description": "Audio/video converter for audio and videos files that can encode them to popular output formats like MKV and MP4 .",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vala",
+            "last_commit": "2020-04-30T20:42:27Z",
+            "owner": "teejee2008",
+            "repo": "selene",
+            "stars": 90
+          }
+        }
+      ],
+      "title": "Media Encoders"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Internet and Networking"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Overskride",
+          "description": "Bluetooth and Obex client/device manager .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-13T11:13:04Z",
+            "owner": "kaii-lb",
+            "repo": "overskride",
+            "stars": 898
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IP Lookup",
+          "description": "Simple application to find information about an IP address .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-30T01:25:23Z",
+            "owner": "Bytezz",
+            "repo": "IPLookup-gtk",
+            "stars": 44
+          }
+        }
+      ],
+      "title": "Bluetooth"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dissent",
+          "description": "Discord client .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-09T01:59:02Z",
+            "owner": "diamondburned",
+            "repo": "dissent",
+            "stars": 1829
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Paper Plane",
+          "description": "Telegram client for the GNOME desktop .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-01-26T07:12:43Z",
+            "owner": "paper-plane-developers",
+            "repo": "paper-plane",
+            "stars": 1061
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Discover",
+          "description": "Discord overlay with X11 and wlroots support .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T21:47:12Z",
+            "owner": "trigg",
+            "repo": "Discover",
+            "stars": 740
+          }
+        }
+      ],
+      "title": "Chat, VoIP, and Phone"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Varia",
+          "description": "Download manager based on aria2 .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T17:17:18Z",
+            "owner": "giantpinkrobots",
+            "repo": "varia",
+            "stars": 1831
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Warpinator",
+          "description": "Linux Mint's LAN file sharing program .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-18T10:54:20Z",
+            "owner": "linuxmint",
+            "repo": "warpinator",
+            "stars": 1571
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gabut Download Manager",
+          "description": "Download manager supporting torrents and direct download with Firefox integration .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-07-14T08:51:14Z",
+            "owner": "gabutakut",
+            "repo": "gabutdm",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Torrential",
+          "description": "Alternative GUI on top of the Transmission BitTorrent client .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-15T23:21:25Z",
+            "owner": "davidmhewitt",
+            "repo": "torrential",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Transporter",
+          "description": "(archived) magic-wormhole client for elementary OS .",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vala",
+            "last_commit": "2018-12-05T21:37:40Z",
+            "owner": "bleakgrey",
+            "repo": "Transporter",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DataFall",
+          "description": "Application for multithreaded HTTP file downloading .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-04-19T16:57:42Z",
+            "owner": "jdobonb",
+            "repo": "datafall",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "File Sharing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NM GUI",
+          "description": "GUI for managing WiFi networks, using NetworkManager () .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-30T11:31:40Z",
+            "owner": "s-adi-dev",
+            "repo": "nmgui",
+            "stars": 265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Netsleuth",
+          "description": "Utility for the calculation and analysis of IP subnet values, designed to simplify network configuration tasks .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-19T06:55:47Z",
+            "owner": "vmkspv",
+            "repo": "netsleuth",
+            "stars": 55
+          }
+        }
+      ],
+      "title": "Network Configuration"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Network Monitor",
+          "description": "Real-time network connection monitoring tool with GUI & TUI .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T07:55:04Z",
+            "owner": "grigio",
+            "repo": "network-monitor",
+            "stars": 284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hotwire",
+          "description": "GUI that leverages the wireshark and tshark infrastructure to capture traffic and explore the contents of tcpdump files .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-11-29T10:46:32Z",
+            "owner": "emmanueltouzery",
+            "repo": "hotwire",
+            "stars": 243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pingpath",
+          "description": "Network diagnostic tool based on parsing ping output with functionality of traceroute .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-11T20:41:45Z",
+            "owner": "yvs2014",
+            "repo": "pingpath",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Network Monitoring"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bavarder",
+          "description": "AI chatbot (ChatGPT, CatGPT, BAI Chat, Open-Assistant SFT-1 12B Model) interface .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T16:25:57Z",
+            "owner": "Bavarder",
+            "repo": "Bavarder",
+            "stars": 268
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Imaginer",
+          "description": "AI image generator (DALL·E 2, Portrait Plus, Stable Diffusion, Custom Provider) interface .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-31T22:29:23Z",
+            "owner": "ImaginerApp",
+            "repo": "Imaginer",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tally",
+          "description": "Plausible Analytics (Google Analytics alternative) client .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-07-28T16:45:28Z",
+            "owner": "cassidyjames",
+            "repo": "tally",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HackUp",
+          "description": "Hacker News client .",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vala",
+            "last_commit": "2025-06-23T21:23:06Z",
+            "owner": "mdh34",
+            "repo": "hackup",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lobjur",
+          "description": "lobste.rs client .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-02-13T23:08:54Z",
+            "owner": "ranfdev",
+            "repo": "Lobjur",
+            "stars": 30
+          }
+        }
+      ],
+      "title": "Specialized Web Browsers / Wrappers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Office"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NaSC",
+          "description": "(archived, see NaSCTUI) Dual pane text based calculator .",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vala",
+            "last_commit": "2025-09-10T20:46:48Z",
+            "owner": "parnoldx",
+            "repo": "nasc",
+            "stars": 582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Plots",
+          "description": "Graph plotting app for the GNOME desktop .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-31T10:01:04Z",
+            "owner": "alexhuntley",
+            "repo": "Plots",
+            "stars": 216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dippi",
+          "description": "Display DPI calculator .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-05-08T02:22:44Z",
+            "owner": "cassidyjames",
+            "repo": "dippi",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Calculator",
+          "description": "Calculator designed for elementary OS .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-07-25T23:01:58Z",
+            "owner": "elementary",
+            "repo": "calculator",
+            "stars": 83
+          }
+        }
+      ],
+      "title": "Calculators & Math"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Xreader",
+          "description": "Generic document viewer with support for PDF, Postscript, DjVu, comics and more .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-19T17:06:37Z",
+            "owner": "linuxmint",
+            "repo": "xreader",
+            "stars": 282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Atril",
+          "description": "Document viewer for the MATE desktop with support for PDF, PostScript (PS), Encapsulated PostScript (EPS), DJVU, DVI, and XPS (fork of Evince) .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T18:35:38Z",
+            "owner": "mate-desktop",
+            "repo": "atril",
+            "stars": 247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jumpdf",
+          "description": "Keyboard-focused PDF viewer for documents where one needs to jump between different sections of the document frequently .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-13T18:03:36Z",
+            "owner": "aaeioua",
+            "repo": "jumpdf",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Document Viewers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Rnote",
+          "description": "Vector-based drawing app for sketching, handwritten notes and to annotate documents and pictures with pressure-sensitive stylus input support .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-28T19:23:10Z",
+            "owner": "flxzt",
+            "repo": "rnote",
+            "stars": 11543
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zim",
+          "description": "Text editor used to maintain a collection of wiki pages .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-26T06:36:15Z",
+            "owner": "zim-desktop-wiki",
+            "repo": "zim-desktop-wiki",
+            "stars": 2193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notekit",
+          "description": "Hierarchical Markdown note-taking application with tablet support .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-29T00:39:14Z",
+            "owner": "blackhole89",
+            "repo": "notekit",
+            "stars": 1567
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notes-Up",
+          "description": "Markdown note manager for elementary OS .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2022-03-24T18:23:24Z",
+            "owner": "Philip-Scott",
+            "repo": "Notes-up",
+            "stars": 632
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notejot",
+          "description": "Stupidly simple notes application .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2025-10-05T16:26:30Z",
+            "owner": "lainsce",
+            "repo": "notejot",
+            "stars": 415
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Folio",
+          "description": "Markdown note-taking application with GNOME desktop integration (Paper fork with additional features) .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-04-17T00:07:28Z",
+            "owner": "toolstack",
+            "repo": "Folio",
+            "stars": 275
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notes",
+          "description": "Note-taking application for the GNOME desktop with notebook based categorization, trash and dark theme .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2023-05-31T14:07:58Z",
+            "owner": "blquinn",
+            "repo": "notes",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Iridium",
+          "description": "(archived) Standard Notes local-first client .",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2021-02-14T18:49:20Z",
+            "owner": "matze",
+            "repo": "iridium",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Noteworthy",
+          "description": "Modern, fast, and version-controlled Markdown notes application .",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2024-02-16T23:44:42Z",
+            "owner": "SeaDve",
+            "repo": "Noteworthy",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Outliner",
+          "description": "Outlining application for elementary OS .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-07-17T01:55:51Z",
+            "owner": "phase1geo",
+            "repo": "Outliner",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notas",
+          "description": "Lightweight, encrypted note-taking application supporting AES-256-GCM encryption and Argon2 key derivation .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-30T03:11:02Z",
+            "owner": "jegly",
+            "repo": "Notas",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Note-taking"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gImageReader",
+          "description": "GTK/Qt front-end to Tesseract .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-15T10:07:56Z",
+            "owner": "manisandro",
+            "repo": "gImageReader",
+            "stars": 1981
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TextSnatcher",
+          "description": "Easy to use OCR application based on Tesseract .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2024-03-20T10:29:28Z",
+            "owner": "RajSolai",
+            "repo": "TextSnatcher",
+            "stars": 1388
+          }
+        }
+      ],
+      "title": "OCR"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pympress",
+          "description": "Presentation tool designed for dual-screen setups such as presentations and public talks .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-29T16:38:07Z",
+            "owner": "Cimbali",
+            "repo": "pympress",
+            "stars": 1637
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spice-up",
+          "description": "Web presentation editor .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2022-03-22T23:36:23Z",
+            "owner": "Philip-Scott",
+            "repo": "Spice-up",
+            "stars": 605
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Teleprompter",
+          "description": "Simple application to read scrolling text from your screen .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-24T17:48:06Z",
+            "owner": "Nokse22",
+            "repo": "teleprompter",
+            "stars": 76
+          }
+        }
+      ],
+      "title": "Presentation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Productivity"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Walker",
+          "description": "Customizable application launcher for Wayland .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-23T23:34:24Z",
+            "owner": "abenz1267",
+            "repo": "walker",
+            "stars": 2979
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StreamController",
+          "description": "Elgato Stream Deck controller with support for plugins .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T08:23:03Z",
+            "owner": "StreamController",
+            "repo": "StreamController",
+            "stars": 1084
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Szyszka",
+          "description": "Fast bulk file renamer .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-06T13:00:35Z",
+            "owner": "qarmin",
+            "repo": "szyszka",
+            "stars": 968
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sherlock",
+          "description": "Application/command launcher for Wayland (with the Hyprland tiling window manager in mind) with async widgets and plugins .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-25T23:23:23Z",
+            "owner": "Skxxtz",
+            "repo": "sherlock",
+            "stars": 751
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TV Series Renamer",
+          "description": "TV series renaming application that support adding titles to episodes .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2018-10-28T07:48:23Z",
+            "owner": "mmstick",
+            "repo": "tv-renamer",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notify",
+          "description": "Client for ntfy .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-06T17:27:07Z",
+            "owner": "ranfdev",
+            "repo": "Notify",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ticket Booth",
+          "description": "Application to keep track of TV series/movies with TMDB's API .",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-04-20T12:36:36Z",
+            "owner": "aleiepure",
+            "repo": "ticketbooth",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cigale",
+          "description": "Timesheet for your activities with support for emails, Git, GitLab and Stack Exchange .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-11-29T10:46:02Z",
+            "owner": "emmanueltouzery",
+            "repo": "cigale",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Workspaces",
+          "description": "Desktop workpaces for elementary OS .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2021-02-21T08:52:58Z",
+            "owner": "DevAlien",
+            "repo": "workspaces",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tally",
+          "description": "Counting application to keep and organize a list of tally counters .",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2026-04-17T13:02:47Z",
+            "owner": "vtrlx",
+            "repo": "tally",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Onboard",
+          "description": "Alternative on screen keyboard (OSK) useful for everybody that cannot use a hardware keyboard, e.g. for mobile Linux or mobility impaired users .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T00:46:56Z",
+            "owner": "dr-ni",
+            "repo": "onboard",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Actioneer",
+          "description": "Tool to automate actions on file changes .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-07-17T13:44:14Z",
+            "owner": "phase1geo",
+            "repo": "Actioneer",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Desktop Productivity"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Wordbook",
+          "description": "Offline English-English dictionary application for the GNOME desktop using the Open English WordNet database and eSpeak for pronunciations .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-05T10:21:08Z",
+            "owner": "mufeedali",
+            "repo": "Wordbook",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Memorize",
+          "description": "Application to create flashcard sets and quizlets to study and learn .",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2026-02-05T15:06:13Z",
+            "owner": "david-swift",
+            "repo": "Memorize",
+            "stars": 120
+          }
+        }
+      ],
+      "title": "Education"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Furtherance",
+          "description": "Cross-platform time tracker .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-17T06:35:41Z",
+            "owner": "unobserved-io",
+            "repo": "Furtherance",
+            "stars": 396
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flowtime",
+          "description": "Pomodoro timer with statistics .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2025-04-28T16:22:16Z",
+            "owner": "Diego-Ivan",
+            "repo": "Flowtime",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hamster-gtk",
+          "description": "Time tracker provided by .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-10T02:18:51Z",
+            "owner": "projecthamster",
+            "repo": "hamster-gtk",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Play Timer (mpris-timer)",
+          "description": "Timer application that uses the MPRIS interface .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-10-20T03:23:41Z",
+            "owner": "efogdev",
+            "repo": "mpris-timer",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tomato",
+          "description": "Pomodoro timer for elementary OS .",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vala",
+            "last_commit": "2019-07-06T19:07:13Z",
+            "owner": "tomatoers",
+            "repo": "tomato",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Timer",
+          "description": "Simple countdown timer .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-01T06:09:03Z",
+            "owner": "vikdevelop",
+            "repo": "timer",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Retro",
+          "description": "Customizable digital clock .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-10-13T18:09:14Z",
+            "owner": "sonnyp",
+            "repo": "Retro",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hourglass",
+          "description": "Simple time keeping application for elementary OS .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-06-22T22:26:59Z",
+            "owner": "sgpthomas",
+            "repo": "hourglass",
+            "stars": 33
+          }
+        }
+      ],
+      "title": "Timers / Time Tracking"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Getting Things GNOME",
+          "description": "Personal task organizer for the GNOME desktop inspired by Getting Things Done .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T13:04:58Z",
+            "owner": "getting-things-gnome",
+            "repo": "gtg",
+            "stars": 599
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Effitask",
+          "description": "todo.txt client with due, flag, future note and schedule addons .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-16T02:22:35Z",
+            "owner": "todotxt-rs",
+            "repo": "effitask",
+            "stars": 236
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Remembrance",
+          "description": "Simple reminder app .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-01T06:01:52Z",
+            "owner": "remindersdevs",
+            "repo": "Reminders",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IPlan",
+          "description": "Personal task manager with project-based task grouping, task timers and drag and drop arranging .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-07-04T12:26:41Z",
+            "owner": "iman-salmani",
+            "repo": "iplan",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agenda",
+          "description": "Simple to-do application for elementary OS .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-05-20T16:13:22Z",
+            "owner": "dahenson",
+            "repo": "agenda",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tasks",
+          "description": "Manager for tasks and reminders designed for elementary OS that support syncing via CalDAV .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-08-03T13:12:37Z",
+            "owner": "elementary",
+            "repo": "tasks",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yishu",
+          "description": "(archived) Simple todo.txt client .",
+          "children": []
+        }
+      ],
+      "title": "To-do Lists"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Academia and Research"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "balistica",
+          "description": "Exterior ballistics calculator .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-07-29T02:17:57Z",
+            "owner": "fusilero",
+            "repo": "balistica",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AstraLite",
+          "description": "Software for deepsky astrophotography and live stacking .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-05T17:58:24Z",
+            "owner": "art-den",
+            "repo": "astra_lite",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Electra",
+          "description": "Software for stacking of deep sky astronomical images .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-05-18T13:56:13Z",
+            "owner": "art-den",
+            "repo": "electra_stacking",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Navier Stokes Spectral Method",
+          "description": "Numerical simulation of the 2D Navier-Stokes equations in the ω − ψ formulation using the pseudo-spectral method .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Fortran",
+            "last_commit": "2026-06-14T20:44:09Z",
+            "owner": "Minard-Jules",
+            "repo": "Navier_Stokes_Spectral_Method",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Physics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OTPClient",
+          "description": "One Time Password application that supports both TOTP and HOTP .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-04T08:44:51Z",
+            "owner": "paolostivanin",
+            "repo": "OTPClient",
+            "stars": 557
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gonepass",
+          "description": "1Password vault reader .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-12-21T16:00:43Z",
+            "owner": "jbreams",
+            "repo": "gonepass",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Obliviate",
+          "description": "Password manager that does not store passwords for elementary OS .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-01-08T14:35:04Z",
+            "owner": "elfenware",
+            "repo": "obliviate",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "Password Management"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Finance"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Denaro",
+          "description": "Personal finance manager for GNOME .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-03-24T09:50:23Z",
+            "owner": "NickvisionApps",
+            "repo": "Denaro",
+            "stars": 839
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Envelope",
+          "description": "Personal finance manager for elementary OS .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2020-08-19T14:14:58Z",
+            "owner": "cjfloss",
+            "repo": "envelope",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CheckWriter",
+          "description": "Application to simplify the process of writing checks .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-02-14T18:19:28Z",
+            "owner": "ashafq",
+            "repo": "CheckWriter",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Budget and Accounting Managers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Virtual Machine Manager (virt-manager)",
+          "description": "Graphical tool for managing virtual machines such as QEMU/KVM, Xen, LXC .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T14:44:09Z",
+            "owner": "virt-manager",
+            "repo": "virt-manager",
+            "stars": 3229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pods",
+          "description": "Podman containers manager .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-23T09:08:06Z",
+            "owner": "marhkb",
+            "repo": "pods",
+            "stars": 1076
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BoxBuddy",
+          "description": "Graphical interface for Distrobox .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-28T06:51:55Z",
+            "owner": "Dvlv",
+            "repo": "BoxBuddyRS",
+            "stars": 549
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Atoms",
+          "description": "Linux Chroot environments manager .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-07T12:09:01Z",
+            "owner": "AtomsDevs",
+            "repo": "Atoms",
+            "stars": 439
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Toolbx Tuner",
+          "description": "toolbx containers manager .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-08-29T20:49:15Z",
+            "owner": "13hannes11",
+            "repo": "toolbox-tuner",
+            "stars": 74
+          }
+        }
+      ],
+      "title": "Containers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DevDocs Desktop",
+          "description": "DevDocs browser and viewer .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-30T19:24:01Z",
+            "owner": "hardpixel",
+            "repo": "devdocs-desktop",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quickDocs",
+          "description": "Documentation browser for DevDocs and Valadoc .",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vala",
+            "last_commit": "2025-06-23T21:19:53Z",
+            "owner": "mdh34",
+            "repo": "quickDocs",
+            "stars": 108
+          }
+        }
+      ],
+      "title": "Documentation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "IDEs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Valama",
+          "description": "Vala IDE .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2022-11-30T18:29:57Z",
+            "owner": "Valama",
+            "repo": "valama",
+            "stars": 204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Playhouse",
+          "description": "Playground for HTML/CSS/JavaScript .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-18T22:42:09Z",
+            "owner": "sonnyp",
+            "repo": "Playhouse",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GtkIDE.jl",
+          "description": "GTK-based IDE for Julia .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2021-09-29T13:17:51Z",
+            "owner": "jonathanBieler",
+            "repo": "GtkIDE.jl",
+            "stars": 74
+          }
+        }
+      ],
+      "title": "Featureful IDEs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GNvim",
+          "description": "GUI for Neovim without any web bloat .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-28T08:22:48Z",
+            "owner": "vhakulinen",
+            "repo": "gnvim",
+            "stars": 1954
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neovim-gtk",
+          "description": "GUI for Neovim with ligatures support .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-28T08:28:44Z",
+            "owner": "Lyude",
+            "repo": "neovim-gtk",
+            "stars": 175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nvim-pygtk3",
+          "description": "PyGTK3 frontend to Neovim with some visual GUI elements .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-12-04T13:04:22Z",
+            "owner": "rliang",
+            "repo": "nvim-pygtk3",
+            "stars": 53
+          }
+        }
+      ],
+      "title": "Neovim GUIs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Xed",
+          "description": "Small and lightweight text editor .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-11T15:31:12Z",
+            "owner": "linuxmint",
+            "repo": "xed",
+            "stars": 549
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "elementary Code",
+          "description": "Code editor designed for elementary OS .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-08-13T15:03:45Z",
+            "owner": "elementary",
+            "repo": "code",
+            "stars": 518
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pluma",
+          "description": "Text editor for the MATE desktop .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-29T22:43:44Z",
+            "owner": "mate-desktop",
+            "repo": "pluma",
+            "stars": 189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "elementary IDE",
+          "description": "Unofficial elementary OS-oriented IDE .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2017-08-29T12:56:42Z",
+            "owner": "donadigo",
+            "repo": "elementary-ide",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vulcan",
+          "description": "Minimalistic text editor designed for both ordinary use and software development .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2021-01-22T21:43:40Z",
+            "owner": "zesterer",
+            "repo": "vulcan",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scripter",
+          "description": "Simple application to write and execute small Python scripts .",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2024-05-20T16:10:52Z",
+            "owner": "david-swift",
+            "repo": "Scripter",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slate",
+          "description": "Simple text editor designed for elementary OS .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-08-11T02:29:51Z",
+            "owner": "wpkelso",
+            "repo": "slate",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Simple Editors and Light IDEs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Marker",
+          "description": "Markdown editor with HTML and LaTeX conversion with scidown .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-04T20:45:06Z",
+            "owner": "fabiocolacio",
+            "repo": "Marker",
+            "stars": 864
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quilter",
+          "description": "Distraction-free Markdown editor .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-08-12T02:26:38Z",
+            "owner": "lainsce",
+            "repo": "quilter",
+            "stars": 295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "markdown-rs",
+          "description": "Distraction-free Markdown editor .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-08-01T11:31:19Z",
+            "owner": "nilgradisnik",
+            "repo": "markdown-rs",
+            "stars": 90
+          }
+        }
+      ],
+      "title": "Markdown"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RegexTester",
+          "description": "Regex tester for elementary OS .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2023-02-28T15:18:02Z",
+            "owner": "artemanufrij",
+            "repo": "regextester",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TextShine",
+          "description": "Text conversion utility .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-07-17T01:56:49Z",
+            "owner": "phase1geo",
+            "repo": "TextShine",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KonbuCase",
+          "description": "Case converting application .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-08-13T12:51:33Z",
+            "owner": "ryonakano",
+            "repo": "konbucase",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bender",
+          "description": "Application to bend and transform text .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-17T12:19:19Z",
+            "owner": "revathskumar",
+            "repo": "bender",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Text Processing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dev Toolbox",
+          "description": "Developer toolbox with JSON to YAML converter, CRON expressions parser, language formatter, hash generators, regex tester, Markdown preview, image converters and more .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-04T09:18:32Z",
+            "owner": "aleiepure",
+            "repo": "devtoolbox",
+            "stars": 481
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Escambo",
+          "description": "HTTP-based APIs test application .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-01T08:23:44Z",
+            "owner": "CleoMenezesJr",
+            "repo": "escambo",
+            "stars": 145
+          }
+        }
+      ],
+      "title": "Toolboxes"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Diffuse",
+          "description": "Text file comparing/merging tool .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-13T05:50:21Z",
+            "owner": "MightyCreak",
+            "repo": "diffuse",
+            "stars": 331
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gnomit",
+          "description": "(archived) Git commit message editor for the GNOME desktop .",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-10-29T19:02:58Z",
+            "owner": "small-tech",
+            "repo": "gnomit",
+            "stars": 30
+          }
+        }
+      ],
+      "title": "Version Control and Diffs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Paleta",
+          "description": "Image dominant color extractor .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-05-26T09:06:59Z",
+            "owner": "nate-xyz",
+            "repo": "paleta",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Emulsion",
+          "description": "Color palette manager .",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vala",
+            "last_commit": "2025-11-26T18:19:19Z",
+            "owner": "lainsce",
+            "repo": "emulsion",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Harvey",
+          "description": "Color contrast calculator .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2024-08-29T20:09:01Z",
+            "owner": "danirabbit",
+            "repo": "harvey",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LookBook",
+          "description": "System icon browser .",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vala",
+            "last_commit": "2021-07-30T00:03:13Z",
+            "owner": "danirabbit",
+            "repo": "lookbook",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flexa",
+          "description": "Convert cursor themes between Windows and Linux formats .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-22T01:17:56Z",
+            "owner": "EuCaue",
+            "repo": "Flexa",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Design"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "File and Data Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Timeshift",
+          "description": "System restore tool for Linux that creates filesystem snapshots using rsync or Btrfs snapshots .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-04-08T17:44:08Z",
+            "owner": "linuxmint",
+            "repo": "timeshift",
+            "stars": 4227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Butter",
+          "description": "Btrfs snapshot manager .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-04T02:40:30Z",
+            "owner": "zhangyuannie",
+            "repo": "butter",
+            "stars": 158
+          }
+        }
+      ],
+      "title": "Backup"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sequeler",
+          "description": "SQL client with support for PostgreSQL, MariaDB and SQLite .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-07-03T11:01:33Z",
+            "owner": "ellie-commons",
+            "repo": "sequeler",
+            "stars": 841
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PSequel",
+          "description": "Postgres SQL client .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2025-12-19T18:37:57Z",
+            "owner": "ppvan",
+            "repo": "tarug",
+            "stars": 101
+          }
+        }
+      ],
+      "title": "Database Clients"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Popsicle",
+          "description": "Utility for flashing multiple USB devices in parallel .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-29T19:48:29Z",
+            "owner": "pop-os",
+            "repo": "popsicle",
+            "stars": 848
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Imageburner",
+          "description": "Simple imageburner for SD/USB designed for elementary OS .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2020-10-25T06:56:24Z",
+            "owner": "artemanufrij",
+            "repo": "imageburner",
+            "stars": 42
+          }
+        }
+      ],
+      "title": "Disk Imaging"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Nemo",
+          "description": "Default file manager of the Cinnamon desktop (fork of Nautilus) .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T15:17:52Z",
+            "owner": "linuxmint",
+            "repo": "nemo",
+            "stars": 1546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Files (elementary)",
+          "description": "File browser for elementary OS .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-08-03T22:40:35Z",
+            "owner": "elementary",
+            "repo": "files",
+            "stars": 365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Caja",
+          "description": "File manager for the MATE desktop .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-30T21:08:20Z",
+            "owner": "mate-desktop",
+            "repo": "caja",
+            "stars": 317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hyperplane",
+          "description": "Non-hierarchical file manager .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-18T10:36:16Z",
+            "owner": "kra-mo",
+            "repo": "hyperplane",
+            "stars": 258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PCManFM",
+          "description": "Lightweight file manager, standard file manager for LXDE .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-03T11:03:38Z",
+            "owner": "lxde",
+            "repo": "pcmanfm",
+            "stars": 248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fm",
+          "description": "Small, general purpose file manager .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-03-23T01:06:15Z",
+            "owner": "euclio",
+            "repo": "fm",
+            "stars": 247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Portfolio",
+          "description": "File manager for mobile devices .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-07T11:53:59Z",
+            "owner": "tchx84",
+            "repo": "Portfolio",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polo",
+          "description": "Multi-pane and tabbed file manager .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-06-14T16:04:25Z",
+            "owner": "OrbintSoft",
+            "repo": "polo",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "File Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Celeste",
+          "description": "File synchronization client that can sync with any cloud provider .",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2025-11-21T23:05:06Z",
+            "owner": "hwittenborn",
+            "repo": "celeste",
+            "stars": 1611
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Syncthing-GTK",
+          "description": "UI for Syncthing with the same features as the Web UI .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-24T18:00:25Z",
+            "owner": "kozec",
+            "repo": "syncthing-gtk",
+            "stars": 1398
+          }
+        }
+      ],
+      "title": "File Synchronisation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "System Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ProtonPlus",
+          "description": "Proton version manager .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-08-13T16:58:23Z",
+            "owner": "Vysp3r",
+            "repo": "ProtonPlus",
+            "stars": 1702
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Extension Manager",
+          "description": "Utility for browsing and installing GNOME Shell Extensions .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T15:51:32Z",
+            "owner": "mjakeman",
+            "repo": "extension-manager",
+            "stars": 1352
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shelly",
+          "description": "Package manager for Arch Linux, CachyOS supporting AUR, Flathub, Flatpak, AppImage, and native Arch Linux packages .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Zig",
+            "last_commit": "2026-08-13T16:56:49Z",
+            "owner": "Seafoam-Labs",
+            "repo": "Shelly-ALPM",
+            "stars": 1006
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nix Software Center",
+          "description": "Software center to easity install and manage Nix packages .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-07T04:12:28Z",
+            "owner": "snowfallorg",
+            "repo": "nix-software-center",
+            "stars": 841
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AdwSteamGtk",
+          "description": "Adwaita for Steam skin installer .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-10T21:34:09Z",
+            "owner": "Foldex",
+            "repo": "AdwSteamGtk",
+            "stars": 385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Icicle",
+          "description": "Graphical installer for NixOS based distributions .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-02T00:38:49Z",
+            "owner": "snowfallorg",
+            "repo": "icicle",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pin It!",
+          "description": "Portable applications shortcut creator .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-07-28T13:30:24Z",
+            "owner": "ryonakano",
+            "repo": "pinit",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimpleSteamTinker",
+          "description": "Simple, and modern Adwaita alternative to SteamTinkerLaunch .",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2024-09-07T08:27:15Z",
+            "owner": "JordanViknar",
+            "repo": "SimpleSteamTinker",
+            "stars": 30
+          }
+        }
+      ],
+      "title": "Software Installation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Solaar",
+          "description": "Manager for many Logitech keyboards, mice, and other devices that connect wirelessly to a Unifying, Bolt, Lightspeed or Nano receiver, USB cable or Bluetooth .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T20:36:04Z",
+            "owner": "pwr-Solaar",
+            "repo": "Solaar",
+            "stars": 9137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LACT",
+          "description": "Application to control AMD, Nvidia or Intel graphical processing units (GPU) on Linux .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T10:59:25Z",
+            "owner": "ilya-zlobintsev",
+            "repo": "LACT",
+            "stars": 5326
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lan Mouse",
+          "description": "Mouse and keyboard sharing software (software KVM switch) designed for Wayland .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-28T14:49:45Z",
+            "owner": "feschber",
+            "repo": "lan-mouse",
+            "stars": 5121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hidamari",
+          "description": "Application to configure video wallpaper for X11 and Wayland .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-09T17:57:39Z",
+            "owner": "jeffshee",
+            "repo": "hidamari",
+            "stars": 2080
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flatseal",
+          "description": "Flatpak permission manager .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T11:48:52Z",
+            "owner": "tchx84",
+            "repo": "Flatseal",
+            "stars": 1744
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SaveDesktop",
+          "description": "Plasma, Xfce and GNOME-based DE configuration saver (icons, fonts, themes, settings, background, GNOME extensions, Flatpak permissions and more) .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T10:56:47Z",
+            "owner": "vikdevelop",
+            "repo": "SaveDesktop",
+            "stars": 798
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReGreet",
+          "description": "GTK-based greetd greeter .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-17T18:38:48Z",
+            "owner": "rharish101",
+            "repo": "ReGreet",
+            "stars": 795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NixOS Configuration Editor",
+          "description": "Application for editing NixOS configurations .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-15T09:55:35Z",
+            "owner": "snowfallorg",
+            "repo": "nixos-conf-editor",
+            "stars": 676
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Warehouse",
+          "description": "Toolbox for managing Flatpak packages (view info, manage user data, pin versions, change version, install/uninstall, etc.) .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-22T03:05:02Z",
+            "owner": "flattool",
+            "repo": "warehouse",
+            "stars": 619
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EasySSH",
+          "description": "SSH connection manager .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-07-12T12:01:25Z",
+            "owner": "muriloventuroso",
+            "repo": "easyssh",
+            "stars": 552
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Luminance",
+          "description": "Simple application to control brightness of displays (including external) supporting DDC/CI .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-09T20:04:49Z",
+            "owner": "sidevesh",
+            "repo": "Luminance",
+            "stars": 177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dynamic Wallpaper",
+          "description": "Dynamic wallpaper creator for GNOME 42 .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-09T11:38:27Z",
+            "owner": "dusansimic",
+            "repo": "dynamic-wallpaper",
+            "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Embellish",
+          "description": "Application to install and manage Nerd Fonts on the system .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-08-03T20:58:20Z",
+            "owner": "getnf",
+            "repo": "embellish",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wardrobe",
+          "description": "Utility to download GNOME shell extensions and GTK themes and icon packs .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-19T02:05:59Z",
+            "owner": "SwordPuffin",
+            "repo": "Wardrobe",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pulse-flow",
+          "description": "PulseAudio configuration tool with a flow graph UI .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2022-02-05T13:25:20Z",
+            "owner": "benwaffle",
+            "repo": "pulse-flow",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pipemenu",
+          "description": "GTK4 dmenu alternative .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-07T12:27:11Z",
+            "owner": "soanvig",
+            "repo": "pipemenu",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "doppler",
+          "description": "Fronted for Redshift allowing to configure different display temperatures for each time of day .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2017-12-07T13:18:40Z",
+            "owner": "spacekookie",
+            "repo": "doppler",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "System Configuration"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Monitor",
+          "description": "Manage processes and monitor system resources .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-08-01T12:37:28Z",
+            "owner": "elementary",
+            "repo": "monitor",
+            "stars": 361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Packetry",
+          "description": "USB 2.0 protocol analysis application for use with the hardware device Cynthion .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T15:13:25Z",
+            "owner": "greatscottgadgets",
+            "repo": "packetry",
+            "stars": 280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Monitorets",
+          "description": "CPU, memory, disk, network and GPU usage monitor widget .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-05T20:44:27Z",
+            "owner": "jorchube",
+            "repo": "monitorets",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inspector",
+          "description": "Application to view system information such as USB/disk/PCIE/networks devices and motherboard/CPU information .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-24T17:49:38Z",
+            "owner": "Nokse22",
+            "repo": "inspector",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stimulator",
+          "description": "Application to keep the computer awake with AppIndicator support .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-06T17:11:07Z",
+            "owner": "sigmaSd",
+            "repo": "Stimulator",
+            "stars": 41
+          }
+        }
+      ],
+      "title": "System Monitoring and Info"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DeSmuME",
+          "description": "Cross-platform Nintendo DS emulator .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T00:03:52Z",
+            "owner": "TASEmulators",
+            "repo": "desmume",
+            "stars": 3610
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "An Anime Game launcher",
+          "description": "Genshin Impact launcher for Linux with telemetry disabling .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Fluent",
+            "last_commit": "2026-07-23T13:11:40Z",
+            "owner": "an-anime-team",
+            "repo": "an-anime-game-launcher",
+            "stars": 2201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cartridges",
+          "description": "Game launcher with Steam, Lutris, Heroic, Legendary, Bottles, itch and RetroArch library import .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T12:51:40Z",
+            "owner": "kra-mo",
+            "repo": "cartridges",
+            "stars": 828
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Epic Asset Manager",
+          "description": "Unofficial client to install Unreal Engine, download and manage purchased assets, projects, plugins and games from the Epic Games Store .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-23T13:47:23Z",
+            "owner": "AchetaGames",
+            "repo": "Epic-Asset-Manager",
+            "stars": 520
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keypunch",
+          "description": "Keyboard typing test like monkeytype .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-07T22:42:12Z",
+            "owner": "bragefuglseth",
+            "repo": "keypunch",
+            "stars": 282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gameeky",
+          "description": "Application to create and play games without any code for young learners and educators .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-13T19:42:32Z",
+            "owner": "tchx84",
+            "repo": "Gameeky",
+            "stars": 139
+          }
+        }
+      ],
+      "title": "Gaming"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ultimate Tic Tac Toe",
+          "description": "Ultimate Tic Tac Toe to play with friends or against an AI .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-18T21:02:27Z",
+            "owner": "Nokse22",
+            "repo": "ultimate-tic-tac-toe",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rollit",
+          "description": "Roll the dice application from six-sided dice up to 999 sides, designed for elementary OS .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-01-14T16:10:00Z",
+            "owner": "elly-code",
+            "repo": "rollit",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Board and Card Games"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dosage",
+          "description": "Medication tracker .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-06T11:38:58Z",
+            "owner": "diegopvlk",
+            "repo": "Dosage",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BLE Sync Cycle",
+          "description": "Indoor cycling application synchronizing video playback with real-time cycling data from Bluetooth Low Energy (BLE) devices .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-12T02:16:39Z",
+            "owner": "richbl",
+            "repo": "go-ble-sync-cycle",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BMI",
+          "description": "Body mass index (BMI) calculator with advanced mode for Waist-Height Ratio, Waist-Hip ratio and BRI .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T11:49:36Z",
+            "owner": "philippkosarev",
+            "repo": "bmi",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Powercycle JS",
+          "description": "ANT+ USB powered GUI and server to control your indoor bike's smart trainer .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-01-06T01:38:10Z",
+            "owner": "charles-m-knox",
+            "repo": "powercycle-js",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Health and Fitness"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mousam",
+          "description": "Lightweight weather application with dynamically changing gradient-based background according to current weather condition .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T11:26:48Z",
+            "owner": "amit9838",
+            "repo": "mousam",
+            "stars": 475
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nimbus",
+          "description": "Minimal weather applet .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2024-09-05T19:35:09Z",
+            "owner": "danirabbit",
+            "repo": "nimbus",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Emergency alerts",
+          "description": "Simple application that sends emergency alerts about the specified location .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-08-09T13:10:39Z",
+            "owner": "leolost2605",
+            "repo": "emergency-alerts",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "Weather Viewers"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T17:04:42.776Z",
+    "original_repository": "valpackett/awesome-gtk",
+    "original_repository_sha": "09cf665f26d259130be9192fe9e36b6fcdf58f7e",
+    "enhanced_repository": "enhansome/enhansome-gtk",
+    "enhanced_repository_description": null,
+    "title": "Awesome GTK with stars"
+  }
+}
