@@ -131,7 +131,7 @@
                     "last_commit": "2026-08-21T00:39:32Z",
                     "owner": "Diegovsky",
                     "repo": "riff",
-                    "stars": 280
+                    "stars": 281
                   }
                 },
                 {
@@ -478,7 +478,7 @@
                 "last_commit": "2026-06-22T19:03:02Z",
                 "owner": "geoffreybennett",
                 "repo": "alsa-scarlett-gui",
-                "stars": 1310
+                "stars": 1309
               }
             },
             {
@@ -490,7 +490,7 @@
                 "archived": false,
                 "id": 886615082,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:02:24Z",
+                "last_commit": "2026-08-24T16:02:15Z",
                 "owner": "Revisto",
                 "repo": "drum-machine",
                 "stars": 151
@@ -508,7 +508,7 @@
                 "last_commit": "2026-04-07T16:47:33Z",
                 "owner": "soyersoyer",
                 "repo": "sysex-controls",
-                "stars": 150
+                "stars": 151
               }
             },
             {
@@ -1013,7 +1013,7 @@
                     "last_commit": "2026-01-28T18:29:19Z",
                     "owner": "maoschanz",
                     "repo": "drawing",
-                    "stars": 861
+                    "stars": 862
                   }
                 },
                 {
@@ -1373,7 +1373,7 @@
                 "last_commit": "2026-06-29T03:59:31Z",
                 "owner": "NickvisionApps",
                 "repo": "Parabolic",
-                "stars": 6925
+                "stars": 6927
               }
             },
             {
@@ -1579,7 +1579,7 @@
                 "last_commit": "2026-08-23T12:24:27Z",
                 "owner": "giantpinkrobots",
                 "repo": "varia",
-                "stars": 1841
+                "stars": 1840
               }
             },
             {
@@ -1942,7 +1942,7 @@
                 "last_commit": "2026-02-25T09:44:38Z",
                 "owner": "lakinduakash",
                 "repo": "linux-wifi-hotspot",
-                "stars": 4363
+                "stars": 4364
               }
             }
           ],
@@ -2342,7 +2342,7 @@
                 "last_commit": "2026-08-14T14:51:29Z",
                 "owner": "pdfarranger",
                 "repo": "pdfarranger",
-                "stars": 5805
+                "stars": 5806
               }
             }
           ],
@@ -2665,10 +2665,10 @@
                 "archived": false,
                 "id": 154173536,
                 "language": "Vala",
-                "last_commit": "2026-08-23T05:13:57Z",
+                "last_commit": "2026-08-24T15:18:57Z",
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5614
+                "stars": 5615
               }
             }
           ],
@@ -3478,7 +3478,7 @@
                     "archived": false,
                     "id": 90277694,
                     "language": "Vala",
-                    "last_commit": "2026-08-24T14:08:06Z",
+                    "last_commit": "2026-08-24T16:44:09Z",
                     "owner": "elementary",
                     "repo": "code",
                     "stars": 520
@@ -4303,7 +4303,7 @@
                 "archived": false,
                 "id": 1129876754,
                 "language": "Zig",
-                "last_commit": "2026-08-24T13:51:10Z",
+                "last_commit": "2026-08-24T16:03:12Z",
                 "owner": "Seafoam-Labs",
                 "repo": "Shelly-ALPM",
                 "stars": 1036
@@ -4348,7 +4348,7 @@
                 "archived": false,
                 "id": 587048314,
                 "language": "Rust",
-                "last_commit": "2026-08-21T01:52:25Z",
+                "last_commit": "2026-08-24T15:14:57Z",
                 "owner": "snowfallorg",
                 "repo": "icicle",
                 "stars": 107
@@ -4403,7 +4403,7 @@
                 "last_commit": "2026-07-29T16:35:30Z",
                 "owner": "qarmin",
                 "repo": "czkawka",
-                "stars": 32870
+                "stars": 32871
               }
             }
           ],
@@ -4440,7 +4440,7 @@
                 "last_commit": "2026-08-24T10:35:54Z",
                 "owner": "ilya-zlobintsev",
                 "repo": "LACT",
-                "stars": 5476
+                "stars": 5478
               }
             },
             {
@@ -4810,7 +4810,7 @@
             "last_commit": "2026-07-23T13:11:40Z",
             "owner": "an-anime-team",
             "repo": "an-anime-game-launcher",
-            "stars": 2211
+            "stars": 2212
           }
         },
         {
@@ -4992,7 +4992,7 @@
             "archived": false,
             "id": 1327476302,
             "language": "Python",
-            "last_commit": "2026-08-24T09:08:08Z",
+            "last_commit": "2026-08-24T15:10:05Z",
             "owner": "yioannides",
             "repo": "throwdown",
             "stars": 5
@@ -5111,7 +5111,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:15:17.771Z",
+    "last_updated": "2026-08-24T16:48:49.930Z",
     "original_repository": "valpackett/awesome-gtk",
     "original_repository_id": 126641992,
     "original_repository_sha": "9018ab2ca78af937931f0aa8957e03cf3cf57daa",
