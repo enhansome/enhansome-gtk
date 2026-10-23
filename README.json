@@ -20,7 +20,7 @@
                     "language": "Python",
                     "license": "GPL-2.0",
                     "last_commit": "2026-10-18T20:49:17Z",
-                    "open_issues": 882,
+                    "open_issues": 883,
                     "owner": "quodlibet",
                     "repo": "quodlibet",
                     "stars": 1766,
@@ -200,7 +200,7 @@
                     "open_issues": 111,
                     "owner": "Nokse22",
                     "repo": "high-tide",
-                    "stars": 676,
+                    "stars": 677,
                     "topics": [
                       "gtk4",
                       "libadwaita",
@@ -222,7 +222,7 @@
                     "id": 408847010,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-10-22T17:41:34Z",
+                    "last_commit": "2026-10-23T19:53:36Z",
                     "open_issues": 22,
                     "owner": "Diegovsky",
                     "repo": "riff",
@@ -275,7 +275,7 @@
                     "open_issues": 63,
                     "owner": "htkhiem",
                     "repo": "euphonica",
-                    "stars": 905,
+                    "stars": 906,
                     "topics": [
                       "audio-visualizer",
                       "gnome",
@@ -308,7 +308,7 @@
                     "open_issues": 4,
                     "owner": "SoongNoonien",
                     "repo": "plattenalbum",
-                    "stars": 252,
+                    "stars": 253,
                     "topics": [
                       "gnome",
                       "gtk4",
@@ -445,8 +445,8 @@
                     "id": 1341794394,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-21T17:58:40Z",
-                    "open_issues": 0,
+                    "last_commit": "2026-10-23T17:16:45Z",
+                    "open_issues": 1,
                     "owner": "1vecera",
                     "repo": "Mluva",
                     "stars": 6,
@@ -485,11 +485,11 @@
                 "id": 196362588,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-13T04:03:14Z",
+                "last_commit": "2026-10-23T14:42:31Z",
                 "open_issues": 2,
                 "owner": "zrythm",
                 "repo": "zrythm",
-                "stars": 3163,
+                "stars": 3166,
                 "topics": [
                   "audio",
                   "computer-music",
@@ -530,7 +530,7 @@
                 "open_issues": 71,
                 "owner": "marin-m",
                 "repo": "SongRec",
-                "stars": 2001,
+                "stars": 2003,
                 "topics": [
                   "audio-fingerprinting",
                   "flatpak",
@@ -876,10 +876,10 @@
                 "language": "C",
                 "license": null,
                 "last_commit": "2026-06-22T19:03:02Z",
-                "open_issues": 88,
+                "open_issues": 89,
                 "owner": "geoffreybennett",
                 "repo": "alsa-scarlett-gui",
-                "stars": 1353,
+                "stars": 1356,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:35.858Z"
@@ -938,7 +938,7 @@
                 "id": 886615082,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-22T04:49:39Z",
+                "last_commit": "2026-10-23T17:55:46Z",
                 "open_issues": 22,
                 "owner": "Revisto",
                 "repo": "drum-machine",
@@ -1023,8 +1023,8 @@
                 "id": 945588036,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-20T22:10:54Z",
-                "open_issues": 15,
+                "last_commit": "2026-10-23T09:44:06Z",
+                "open_issues": 13,
                 "owner": "huddx01",
                 "repo": "oscmix",
                 "stars": 36,
@@ -1119,7 +1119,7 @@
                 "open_issues": 291,
                 "owner": "celluloid-player",
                 "repo": "celluloid",
-                "stars": 1484,
+                "stars": 1483,
                 "topics": [
                   "audio-player",
                   "c",
@@ -1277,7 +1277,7 @@
                 "open_issues": 11,
                 "owner": "pojntfx",
                 "repo": "multiplex",
-                "stars": 401,
+                "stars": 402,
                 "topics": [
                   "bittorent",
                   "gnome",
@@ -1381,7 +1381,7 @@
                 "open_issues": 100,
                 "owner": "SeaDve",
                 "repo": "Kooha",
-                "stars": 3542,
+                "stars": 3543,
                 "topics": [
                   "gnome",
                   "gstreamer",
@@ -1549,7 +1549,7 @@
                 "open_issues": 15,
                 "owner": "Nokse22",
                 "repo": "ascii-draw",
-                "stars": 547,
+                "stars": 548,
                 "topics": [
                   "ascii",
                   "ascii-art",
@@ -2041,7 +2041,7 @@
                     "open_issues": 4,
                     "owner": "libvips",
                     "repo": "nip4",
-                    "stars": 102,
+                    "stars": 103,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:35.858Z"
@@ -2069,7 +2069,7 @@
                     "open_issues": 67,
                     "owner": "xinntao",
                     "repo": "Real-ESRGAN-ncnn-vulkan",
-                    "stars": 2272,
+                    "stars": 2273,
                     "topics": [
                       "amd",
                       "anime",
@@ -2414,7 +2414,7 @@
                 "open_issues": 112,
                 "owner": "NickvisionApps",
                 "repo": "Parabolic",
-                "stars": 7435,
+                "stars": 7441,
                 "topics": [
                   "csharp",
                   "downloader",
@@ -2611,7 +2611,7 @@
                 "open_issues": 138,
                 "owner": "diamondburned",
                 "repo": "dissent",
-                "stars": 1861,
+                "stars": 1863,
                 "topics": [
                   "adwaita",
                   "discord",
@@ -2665,8 +2665,8 @@
                 "id": 297972441,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-06T21:47:12Z",
-                "open_issues": 30,
+                "last_commit": "2026-10-23T14:34:09Z",
+                "open_issues": 25,
                 "owner": "trigg",
                 "repo": "Discover",
                 "stars": 752,
@@ -2693,11 +2693,11 @@
                 "id": 1288428710,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-22T19:01:21Z",
-                "open_issues": 22,
+                "last_commit": "2026-10-23T19:42:51Z",
+                "open_issues": 19,
                 "owner": "hyprlab",
                 "repo": "hylki",
-                "stars": 298,
+                "stars": 300,
                 "topics": [
                   "email",
                   "gnome",
@@ -2756,11 +2756,11 @@
                 "id": 1357131239,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-21T14:02:46Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-23T07:37:57Z",
+                "open_issues": 11,
                 "owner": "stalvatero",
                 "repo": "letter",
-                "stars": 83,
+                "stars": 84,
                 "topics": []
               },
               "first_seen": "2026-10-10T19:58:38.442Z"
@@ -2784,11 +2784,11 @@
                 "id": 722267905,
                 "language": "Python",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-21T19:58:39Z",
+                "last_commit": "2026-10-23T18:58:53Z",
                 "open_issues": 58,
                 "owner": "giantpinkrobots",
                 "repo": "varia",
-                "stars": 1890,
+                "stars": 1895,
                 "topics": [
                   "aria2",
                   "downloadmanager",
@@ -2820,7 +2820,7 @@
                 "open_issues": 76,
                 "owner": "linuxmint",
                 "repo": "warpinator",
-                "stars": 1596,
+                "stars": 1593,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:35.858Z"
@@ -3060,7 +3060,7 @@
                 "open_issues": 0,
                 "owner": "grigio",
                 "repo": "network-monitor",
-                "stars": 318,
+                "stars": 317,
                 "topics": [
                   "bandwidth-monitor",
                   "ebpf",
@@ -3153,7 +3153,7 @@
                 "id": 874061575,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-17T21:16:17Z",
+                "last_commit": "2026-10-23T18:31:39Z",
                 "open_issues": 32,
                 "owner": "theCapypara",
                 "repo": "field-monitor",
@@ -3380,7 +3380,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-19T09:19:46Z",
-                "open_issues": 93,
+                "open_issues": 94,
                 "owner": "ProtonVPN",
                 "repo": "proton-vpn-gtk-app",
                 "stars": 789,
@@ -3412,7 +3412,7 @@
                 "language": "CSS",
                 "license": "Unlicense",
                 "last_commit": "2026-10-19T13:23:11Z",
-                "open_issues": 42,
+                "open_issues": 43,
                 "owner": "rafaelmardojai",
                 "repo": "firefox-gnome-theme",
                 "stars": 3922,
@@ -3450,7 +3450,7 @@
                 "open_issues": 196,
                 "owner": "lakinduakash",
                 "repo": "linux-wifi-hotspot",
-                "stars": 4439,
+                "stars": 4437,
                 "topics": [
                   "archlinux",
                   "gtk3",
@@ -3495,10 +3495,10 @@
                 "language": "JavaScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-04-08T15:11:30Z",
-                "open_issues": 338,
+                "open_issues": 339,
                 "owner": "johnfactotum",
                 "repo": "foliate",
-                "stars": 8838,
+                "stars": 8839,
                 "topics": [
                   "azw",
                   "azw3",
@@ -3768,10 +3768,10 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-10-19T10:33:01Z",
-                "open_issues": 437,
+                "open_issues": 439,
                 "owner": "zim-desktop-wiki",
                 "repo": "zim-desktop-wiki",
-                "stars": 2207,
+                "stars": 2208,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:35.858Z"
@@ -4076,7 +4076,7 @@
                 "open_issues": 78,
                 "owner": "manisandro",
                 "repo": "gImageReader",
-                "stars": 2007,
+                "stars": 2009,
                 "topics": [
                   "c-plus-plus",
                   "gtk",
@@ -4107,7 +4107,7 @@
                 "open_issues": 42,
                 "owner": "RajSolai",
                 "repo": "TextSnatcher",
-                "stars": 1391,
+                "stars": 1390,
                 "topics": [
                   "elementary-apps",
                   "flatpak",
@@ -4145,7 +4145,7 @@
                 "open_issues": 91,
                 "owner": "pdfarranger",
                 "repo": "pdfarranger",
-                "stars": 5990,
+                "stars": 5994,
                 "topics": [
                   "gtk",
                   "gtk3",
@@ -4168,7 +4168,7 @@
                 "id": 933362540,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-22T19:24:38Z",
+                "last_commit": "2026-10-23T12:47:31Z",
                 "open_issues": 0,
                 "owner": "word-sys",
                 "repo": "word-sys-pdf-editor",
@@ -4295,7 +4295,7 @@
                 "open_issues": 25,
                 "owner": "abenz1267",
                 "repo": "walker",
-                "stars": 3089,
+                "stars": 3090,
                 "topics": [
                   "runner",
                   "rust",
@@ -4320,7 +4320,7 @@
                 "open_issues": 59,
                 "owner": "StreamController",
                 "repo": "StreamController",
-                "stars": 1137,
+                "stars": 1138,
                 "topics": [
                   "gtk",
                   "gtk4",
@@ -4345,7 +4345,7 @@
                 "open_issues": 48,
                 "owner": "qarmin",
                 "repo": "szyszka",
-                "stars": 985,
+                "stars": 986,
                 "topics": [
                   "gtk",
                   "linux",
@@ -4423,7 +4423,7 @@
                 "open_issues": 19,
                 "owner": "ranfdev",
                 "repo": "Notify",
-                "stars": 111,
+                "stars": 112,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:35.858Z"
@@ -4444,7 +4444,7 @@
                 "open_issues": 21,
                 "owner": "aleiepure",
                 "repo": "ticketbooth",
-                "stars": 103,
+                "stars": 104,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:35.858Z"
@@ -4584,7 +4584,7 @@
                 "open_issues": 4,
                 "owner": "mufeedali",
                 "repo": "Wordbook",
-                "stars": 167,
+                "stars": 168,
                 "topics": [
                   "dictionary",
                   "espeak-ng",
@@ -4678,10 +4678,10 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-21T17:09:47Z",
-                "open_issues": 191,
+                "open_issues": 193,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5762,
+                "stars": 5763,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -5001,7 +5001,7 @@
                 "open_issues": 18,
                 "owner": "todotxt-rs",
                 "repo": "effitask",
-                "stars": 235,
+                "stars": 236,
                 "topics": [
                   "gtd",
                   "todotxt"
@@ -5025,7 +5025,7 @@
                 "open_issues": 37,
                 "owner": "remindersdevs",
                 "repo": "Reminders",
-                "stars": 163,
+                "stars": 160,
                 "topics": [
                   "gnome",
                   "gtk4",
@@ -5137,11 +5137,11 @@
                 "id": 652134847,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-22T14:11:45Z",
+                "last_commit": "2026-10-23T17:57:17Z",
                 "open_issues": 22,
                 "owner": "qwersyk",
                 "repo": "Newelle",
-                "stars": 1493,
+                "stars": 1497,
                 "topics": [
                   "adwaita",
                   "ai",
@@ -5615,7 +5615,7 @@
                 "open_issues": 173,
                 "owner": "virt-manager",
                 "repo": "virt-manager",
-                "stars": 3292,
+                "stars": 3296,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:35.858Z"
@@ -5975,7 +5975,7 @@
                     "id": 368622612,
                     "language": "Rust",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-21T10:02:16Z",
+                    "last_commit": "2026-10-23T10:00:15Z",
                     "open_issues": 51,
                     "owner": "Lyude",
                     "repo": "neovim-gtk",
@@ -6533,10 +6533,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-27T16:01:49Z",
-                "open_issues": 46,
+                "open_issues": 47,
                 "owner": "aleiepure",
                 "repo": "devtoolbox",
-                "stars": 488,
+                "stars": 489,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:35.858Z"
@@ -6798,7 +6798,7 @@
             "id": 1247776104,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-22T04:27:36Z",
+            "last_commit": "2026-10-23T05:39:51Z",
             "open_issues": 1,
             "owner": "EuCaue",
             "repo": "Flexa",
@@ -6838,7 +6838,7 @@
                 "open_issues": 236,
                 "owner": "linuxmint",
                 "repo": "timeshift",
-                "stars": 4313,
+                "stars": 4315,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:35.858Z"
@@ -7008,7 +7008,7 @@
                 "id": 5099405,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-19T09:40:14Z",
+                "last_commit": "2026-10-23T15:47:29Z",
                 "open_issues": 313,
                 "owner": "linuxmint",
                 "repo": "nemo",
@@ -7207,7 +7207,7 @@
                 "open_issues": 179,
                 "owner": "cboxdoerfer",
                 "repo": "fsearch",
-                "stars": 4508,
+                "stars": 4512,
                 "topics": [
                   "file-search",
                   "search-engine"
@@ -7336,11 +7336,11 @@
                 "id": 533551563,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-22T15:27:50Z",
-                "open_issues": 56,
+                "last_commit": "2026-10-22T20:56:45Z",
+                "open_issues": 54,
                 "owner": "Vysp3r",
                 "repo": "ProtonPlus",
-                "stars": 1846,
+                "stars": 1847,
                 "topics": [
                   "adwaita",
                   "gnome",
@@ -7374,7 +7374,7 @@
                 "open_issues": 31,
                 "owner": "mjakeman",
                 "repo": "extension-manager",
-                "stars": 1385,
+                "stars": 1386,
                 "topics": [
                   "c",
                   "gnome",
@@ -7399,11 +7399,11 @@
                 "id": 1129876754,
                 "language": "Zig",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-22T19:56:10Z",
-                "open_issues": 50,
+                "last_commit": "2026-10-23T18:28:57Z",
+                "open_issues": 53,
                 "owner": "Seafoam-Labs",
                 "repo": "Shelly-ALPM",
-                "stars": 1209,
+                "stars": 1216,
                 "topics": [
                   "archlinux",
                   "archlinux-community",
@@ -7469,7 +7469,7 @@
                 "open_issues": 6,
                 "owner": "Foldex",
                 "repo": "AdwSteamGtk",
-                "stars": 393,
+                "stars": 394,
                 "topics": [
                   "adwaita",
                   "gnome",
@@ -7591,7 +7591,7 @@
                 "open_issues": 352,
                 "owner": "qarmin",
                 "repo": "czkawka",
-                "stars": 34446,
+                "stars": 34474,
                 "topics": [
                   "cleaner",
                   "duplicates",
@@ -7626,10 +7626,10 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-08-18T13:11:09Z",
-                "open_issues": 131,
+                "open_issues": 132,
                 "owner": "pwr-Solaar",
                 "repo": "Solaar",
-                "stars": 9508,
+                "stars": 9509,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:35.858Z"
@@ -7646,11 +7646,11 @@
                 "id": 304892612,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-22T17:20:23Z",
-                "open_issues": 97,
+                "last_commit": "2026-10-23T19:13:48Z",
+                "open_issues": 98,
                 "owner": "ilya-zlobintsev",
                 "repo": "LACT",
-                "stars": 5791,
+                "stars": 5797,
                 "topics": [
                   "amdgpu",
                   "gpu",
@@ -7678,7 +7678,7 @@
                 "open_issues": 161,
                 "owner": "feschber",
                 "repo": "lan-mouse",
-                "stars": 5405,
+                "stars": 5412,
                 "topics": [
                   "gplv3",
                   "gtk4-rs",
@@ -7718,7 +7718,7 @@
                 "open_issues": 138,
                 "owner": "jeffshee",
                 "repo": "hidamari",
-                "stars": 2129,
+                "stars": 2131,
                 "topics": [
                   "linux",
                   "live-wallpaper",
@@ -7792,7 +7792,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-13T15:54:12Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "vikdevelop",
                 "repo": "SaveDesktop",
                 "stars": 821,
@@ -8239,11 +8239,11 @@
             "id": 74630515,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-11T13:21:23Z",
+            "last_commit": "2026-10-23T18:27:21Z",
             "open_issues": 98,
             "owner": "TASEmulators",
             "repo": "desmume",
-            "stars": 3665,
+            "stars": 3669,
             "topics": [
               "arm",
               "c-plus-plus",
@@ -8271,7 +8271,7 @@
             "open_issues": 120,
             "owner": "an-anime-team",
             "repo": "an-anime-game-launcher",
-            "stars": 2286,
+            "stars": 2285,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:35.858Z"
@@ -8784,7 +8784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T19:57:06.897Z",
+    "last_updated": "2026-10-23T19:54:21.785Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome GTK (3/4) applications",
@@ -8796,7 +8796,7 @@
       "open_issues": 5,
       "owner": "valpackett",
       "repo": "awesome-gtk",
-      "stars": 1268,
+      "stars": 1270,
       "topics": [
         "awesome",
         "awesome-list",
