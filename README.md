@@ -164,7 +164,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 #### Music Players
 
-* [Quod Libet](https://github.com/quodlibet/quodlibet) ⭐ 1,771 | 🐛 892 | 🌐 Python | 📅 2026-10-24 - Cross-platform audio player providing many different ways to view local libraries `#python` `#gtk3`.
+* [Quod Libet](https://github.com/quodlibet/quodlibet) ⭐ 1,772 | 🐛 893 | 🌐 Python | 📅 2026-10-24 - Cross-platform audio player providing many different ways to view local libraries `#python` `#gtk3`.
 * [Resonance](https://github.com/nate-xyz/resonance) ⭐ 434 | 🐛 113 | 🌐 Rust | 📅 2024-06-17 - Music player with MPRIS support, Discord Rich presence and Last.fm scrobbling `#rust` `#python` `#gtk4` `#libadwaita`.
 * [Muzika](https://github.com/vixalien/muzika) ⚠️ Archived - Music player with customizable home screen and Google Music integration `#gjs` `#typescript` `#gtk4` `#libadwaita`.
 * [elementary Music](https://github.com/elementary/music) ⭐ 150 | 🐛 47 | 🌐 Vala | 📅 2026-11-04 - Official music player for elementary OS `#vala` `#gtk4` `#granite` `#libadwaita` `#elementary`.
@@ -191,8 +191,8 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 #### Audio Streaming Service Clients
 
-* [High Tide](https://github.com/Nokse22/high-tide) ⭐ 680 | 🐛 116 | 🌐 Python | 📅 2026-08-21 - Tidal streaming client `#python` `#gtk4` `#libadwaita`.
-* [Riff](https://github.com/Diegovsky/riff) ⭐ 376 | 🐛 33 | 🌐 Rust | 📅 2026-11-06 - Spotify (premium) client for the GNOME desktop with MPRIS integration based on [librespot](https://github.com/librespot-org/librespot) ⭐ 7,375 | 🐛 200 | 🌐 Rust | 📅 2026-10-21, fork of [Spot](https://github.com/xou816/spot) ⭐ 2,365 | 🐛 115 | 🌐 Rust | 📅 2025-10-13 `#rust` `#gtk4` `#libadwaita`.
+* [High Tide](https://github.com/Nokse22/high-tide) ⭐ 680 | 🐛 117 | 🌐 Python | 📅 2026-08-21 - Tidal streaming client `#python` `#gtk4` `#libadwaita`.
+* [Riff](https://github.com/Diegovsky/riff) ⭐ 376 | 🐛 33 | 🌐 Rust | 📅 2026-11-06 - Spotify (premium) client for the GNOME desktop with MPRIS integration based on [librespot](https://github.com/librespot-org/librespot) ⭐ 7,379 | 🐛 200 | 🌐 Rust | 📅 2026-11-07, fork of [Spot](https://github.com/xou816/spot) ⭐ 2,365 | 🐛 115 | 🌐 Rust | 📅 2025-10-13 `#rust` `#gtk4` `#libadwaita`.
 * [Subsound-GTK](https://github.com/esiqveland/subsound-gtk) ⭐ 9 | 🐛 14 | 🌐 Java | 📅 2026-09-01 - Subsonic compatible music player `#java` `#gtk4` `#libadwaita`.
 * [Cassette](https://flathub.org/en/apps/space.rirusha.Cassette) - Yandex Music service client `#vala` `#gtk4` `#libadwaita`.
 * [Gelly](https://flathub.org/en/apps/io.m51.Gelly) - Jellyfin Media Server client focused specifically on music playback `#rust` `#gtk4` `#libadwaita`.
@@ -202,9 +202,9 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 #### MPD Clients
 
-* [Euphonica](https://github.com/htkhiem/euphonica) ⭐ 911 | 🐛 64 | 🌐 Rust | 📅 2026-11-05 - Feature-packed MPD client with MPIRS support, customisable spectrum visualiser, dBFS readout support and more `#rust` `#gtk4` `#libadwaita`.
+* [Euphonica](https://github.com/htkhiem/euphonica) ⭐ 911 | 🐛 64 | 🌐 Rust | 📅 2026-11-07 - Feature-packed MPD client with MPIRS support, customisable spectrum visualiser, dBFS readout support and more `#rust` `#gtk4` `#libadwaita`.
 * [Mpdevil](https://github.com/SoongNoonien/mpdevil) ⭐ 255 | 🐛 4 | 🌐 Python | 📅 2026-11-05 - MPD music browser with MPRIS interface `#python` `#gtk4` `#libadwaita`.
-* [Sonata](https://github.com/multani/sonata) ⭐ 133 | 🐛 43 | 🌐 Python | 📅 2026-10-16 - MPD client with tag editor and audio scrobbling support, currently looking for a new maintainer `#python` `#gtk3`.
+* [Sonata](https://github.com/multani/sonata) ⭐ 133 | 🐛 42 | 🌐 Python | 📅 2026-11-07 - MPD client with tag editor and audio scrobbling support, currently looking for a new maintainer `#python` `#gtk3`.
 * [CoverGrid](https://www.suruatoel.xyz/codes/mcg) - MPD client focusing on albums instead of single tracks `#python` `#gtk4` `#libadwaita`.
 
 #### Podcasts
@@ -226,7 +226,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 #### Transcription
 
-* [Parlatype](https://github.com/gkarsay/parlatype) ⭐ 176 | 🐛 24 | 🌐 C | 📅 2026-11-03 - Minimal audio player for manual speech transcription `#c` `#gtk4` `#libadwaita`.
+* [Parlatype](https://github.com/gkarsay/parlatype) ⭐ 176 | 🐛 24 | 🌐 C | 📅 2026-11-07 - Minimal audio player for manual speech transcription `#c` `#gtk4` `#libadwaita`.
 * [ReCast](https://github.com/hardcoeur/recast) ⭐ 11 | 🐛 1 | 🌐 Python | 📅 2025-05-12 - Application for audio and video transcription on the GNOME desktop utilizing (faster-)whisper `#python` `#gtk4` `#libadwaita`.
 * [Mluva](https://github.com/1vecera/Mluva) ⭐ 8 | 🐛 0 | 🌐 Rust | 📅 2026-11-03 - Native dictation and rewrite workspace for Omarchy, with editable transcripts and searchable history `#python` `#gtk4` `#libadwaita`.
 * [Speed of Sound](https://www.speedofsound.io) - Voice-typing application `#java` `#gtk4` `#libadwaita`.
@@ -241,17 +241,17 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Audio Workstations (DAWs)
 
-* [zrythm](https://github.com/zrythm/zrythm) ⭐ 3,188 | 🐛 2 | 🌐 C++ | 📅 2026-11-06 - DAW offering streamlined editing workflows with automation capabilities, chord assistance and support for plugins `#c++` `#gtk4` `#libadwaita`.
+* [zrythm](https://github.com/zrythm/zrythm) ⭐ 3,190 | 🐛 2 | 🌐 C++ | 📅 2026-11-07 - DAW offering streamlined editing workflows with automation capabilities, chord assistance and support for plugins `#c++` `#gtk4` `#libadwaita`.
 
 ### Audio Tools
 
-* [SongRec](https://github.com/marin-m/SongRec) ⭐ 2,042 | 🐛 69 | 🌐 Rust | 📅 2026-11-04 - Shazam GUI client `#rust` `#gtk3`.
+* [SongRec](https://github.com/marin-m/SongRec) ⭐ 2,043 | 🐛 69 | 🌐 Rust | 📅 2026-11-04 - Shazam GUI client `#rust` `#gtk3`.
 * [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) ⚠️ Archived - (archived) Voice changer based on SoX `#python` `#gtk3`.
 * [pwvucontrol](https://github.com/saivert/pwvucontrol) ⭐ 704 | 🐛 24 | 🌐 Rust | 📅 2026-08-21 - PipeWire volume mixer `#rust` `#gtk4` `#libadwaita`.
 * [Tagger](https://github.com/NickvisionApps/Tagger) ⭐ 319 | 🐛 27 | 🌐 C# | 📅 2024-08-07 - Music tag (metadata) editor `#csharp` `#gtk4` `#libadwaita`.
 * [Cavalier](https://github.com/NickvisionApps/Cavalier) ⭐ 278 | 🐛 23 | 🌐 C# | 📅 2025-04-21 - Audio visualizer based on [CAVA] `#csharp` `#gtk4` `#libadwaita`.
 * [Myxer](https://github.com/VixenUtils/Myxer) ⭐ 263 | 🐛 6 | 🌐 Rust | 📅 2025-10-29 - PulseAudio volume mixer `#rust` `#gtk3`.
-* [Reco](https://github.com/ryonakano/reco) ⭐ 131 | 🐛 40 | 🌐 Vala | 📅 2026-11-04 - Audio recorder `#vala` `#gtk4` `#granite`.
+* [Reco](https://github.com/ryonakano/reco) ⭐ 132 | 🐛 40 | 🌐 Vala | 📅 2026-11-04 - Audio recorder `#vala` `#gtk4` `#granite`.
 * [Simple Wireplumber GUI](https://github.com/dyegoaurelio/simple-wireplumber-gui) ⭐ 102 | 🐛 13 | 🌐 Python | 📅 2026-06-26 - WirePlumber (PipeWire session manager) GUI to rename devices and show properties. `#python` `#gtk4` `#libadwaita`.
 * [Whisper](https://github.com/mijorus/whisper) ⭐ 93 | 🐛 4 | 🌐 Python | 📅 2026-04-18 - Application to listen to the microphone through the speakers `#python` `#gtk4` `#libadwaita`.
 * [Chronograph](https://github.com/Dzheremi2/Chronograph) ⚠️ Archived - Application to sync lyrics of songs and contribute it to various resources `#python` `#gtk4` `#libadwaita`.
@@ -295,8 +295,8 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Video Players
 
-* [Celluloid](https://github.com/celluloid-player/celluloid) ⭐ 1,487 | 🐛 292 | 🌐 C | 📅 2026-11-06 - (ex GNOME MPV) frontend for MPV `#c` `#gtk4` `#libadwaita`.
-* [Clapper](https://github.com/Rafostar/clapper) ⭐ 978 | 🐛 134 | 🌐 C | 📅 2026-09-30 - Media player powered by GStreamer with OpenGL rendering `#c` `#gtk4` `#libadwaita`.
+* [Celluloid](https://github.com/celluloid-player/celluloid) ⭐ 1,489 | 🐛 292 | 🌐 C | 📅 2026-11-06 - (ex GNOME MPV) frontend for MPV `#c` `#gtk4` `#libadwaita`.
+* [Clapper](https://github.com/Rafostar/clapper) ⭐ 977 | 🐛 134 | 🌐 C | 📅 2026-09-30 - Media player powered by GStreamer with OpenGL rendering `#c` `#gtk4` `#libadwaita`.
 * [Glide](https://github.com/philn/glide) ⭐ 289 | 🐛 9 | 🌐 Rust | 📅 2026-11-06 - Simple video player powered by GStreamer `#rust` `#gtk4` `#libadwaita`.
 * [Videos](https://github.com/elementary/videos) ⭐ 57 | 🐛 46 | 🌐 Vala | 📅 2026-11-05 - Video player and library application for elementary OS  `#vala` `#gtk4` `#libadwaita`.
 * [Livi](https://github.com/agx/livi) ⭐ 8 | 🐛 0 | 🌐 C | 📅 2025-07-26 - Minimalistic video player for mobile devices powered by GStreamer `#c` `#gtk4` `#libadwaita`.
@@ -342,7 +342,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Video Tools
 
-* [Cameractrls](https://github.com/soyersoyer/cameractrls) ⭐ 961 | 🐛 61 | 🌐 Python | 📅 2026-07-16 - GUI and camera viewer (SDL) to set the camera controls (V4L2 or extensions) in Linux `#python` `#gtk4`.
+* [Cameractrls](https://github.com/soyersoyer/cameractrls) ⭐ 961 | 🐛 62 | 🌐 Python | 📅 2026-07-16 - GUI and camera viewer (SDL) to set the camera controls (V4L2 or extensions) in Linux `#python` `#gtk4`.
 * [media-toc](https://github.com/fengalin/media-toc) ⭐ 72 | 🐛 23 | 🌐 Rust | 📅 2023-04-04 - Application to build a table of contents from a media or to split a media file into chapters `#rust` `#gtk3`.
 * [Open Media Converter](https://github.com/albilu/open-media-converter) ⭐ 6 | 🐛 5 | 🌐 Java | 📅 2026-10-29 - Batch converter for video, audio, image and document formats (FFmpeg/ImageMagick/Pandoc/LibreOffice frontend) `#java` `#gtk4`.
 * [Camera (Snapshot)](https://apps.gnome.org/Snapshot) - Application to take pictures and videos on your computer, tablet and phone `#rust` `#gtk4` `#libadwaita` `#gnome`.
@@ -366,17 +366,17 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### ASCII/Pixel Art
 
 * [ASCII Draw](https://github.com/Nokse22/ascii-draw) ⭐ 551 | 🐛 17 | 🌐 Python | 📅 2026-07-16 - App to draw diagrams or anything using only ASCII `#python` `#gtk4` `#libadwaita`.
-* [Halftone](https://github.com/tfuxu/Halftone) ⭐ 146 | 🐛 17 | 🌐 Python | 📅 2026-09-02 - Image to pixel art converter `#python` `#gtk4` `#libadwaita`.
+* [Halftone](https://github.com/tfuxu/Halftone) ⭐ 147 | 🐛 17 | 🌐 Python | 📅 2026-09-02 - Image to pixel art converter `#python` `#gtk4` `#libadwaita`.
 * [Letterpress](https://apps.gnome.org/Letterpress) - Image to ASCII art converter using [jp2a](https://github.com/Talinx/jp2a) ⭐ 104 | 🐛 3 | 🌐 HTML | 📅 2025-12-16 `#python` `#gtk4` `#libadwaita` `#gnome`.
 * [Calligraphy](https://gitlab.com/gregorni/Calligraphy) - Text to ASCII banners converter `#python` `#gtk4` `#libadwaita`.
 
 ### Image Viewers
 
 * [Pix](https://github.com/linuxmint/pix) ⭐ 272 | 🐛 123 | 🌐 C | 📅 2026-09-21 - Image viewer and browser `#c` `#gtk3` `#libxapp`.
-* [Vipsdisp](https://github.com/jcupitt/vipsdisp) ⭐ 239 | 🐛 8 | 🌐 C | 📅 2026-11-04 - Image viewer capable of displaying huge (i.e. GB sizes) images based on [`libvips`](https://github.com/libvips/libvips) ⭐ 11,790 | 🐛 71 | 🌐 C | 📅 2026-11-05 and supporting many scientific and technical image formats `#c` `#gtk4`.
+* [Vipsdisp](https://github.com/jcupitt/vipsdisp) ⭐ 239 | 🐛 8 | 🌐 C | 📅 2026-11-04 - Image viewer capable of displaying huge (i.e. GB sizes) images based on [`libvips`](https://github.com/libvips/libvips) ⭐ 11,792 | 🐛 71 | 🌐 C | 📅 2026-11-07 and supporting many scientific and technical image formats `#c` `#gtk4`.
 * [Fotema](https://github.com/blissd/fotema) ⭐ 196 | 🐛 71 | 🌐 Rust | 📅 2026-11-04 - Photo gallery with support for iOS Live Photos and Android motion photos `#rust` `#gtk4` `#libadwaita` `#relm4`.
 * [Image Roll](https://github.com/weclaw1/image-roll) ⭐ 189 | 🐛 20 | 🌐 Rust | 📅 2022-07-07 - Simple and fast image viewer with basic image manipulation tools `#rust` `#gtk4`.
-* [Photos](https://github.com/elementary/photos) ⭐ 104 | 🐛 211 | 🌐 Vala | 📅 2026-11-05 - Photo viewer and organizer for elementary OS `#vala` `#gtk3` `#libhandy`.
+* [Photos](https://github.com/elementary/photos) ⭐ 104 | 🐛 212 | 🌐 Vala | 📅 2026-11-05 - Photo viewer and organizer for elementary OS `#vala` `#gtk3` `#libhandy`.
 * [Memento](https://github.com/SelfRef/memento) ⭐ 18 | 🐛 6 | 🌐 Rust | 📅 2026-11-06 - Meme browser, search and tagger with OCR tagging `#python` `#gtk4` `#libadwaita`.
 * [MView6](https://github.com/newinnovations/MView6) ⭐ 15 | 🐛 1 | 🌐 Rust | 📅 2026-10-07 - High-performance PDF and photo viewer for large photo and document collections  `#rust` `#gtk4`.
 * [Eye of GNOME (EoG)](https://flathub.org/en/apps/org.gnome.eog) - Image viewer, designed for the GNOME Desktop `#c` `#gtk3` `#libhandy`.
@@ -412,7 +412,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 #### Screenshot Tools
 
-* [Swappy](https://github.com/jtheoof/swappy) ⭐ 1,514 | 🐛 48 | 🌐 C | 📅 2026-10-15 - Wayland native screenshot editing tool `#c` `#gtk3`.
+* [Swappy](https://github.com/jtheoof/swappy) ⭐ 1,514 | 🐛 46 | 🌐 C | 📅 2026-11-07 - Wayland native screenshot editing tool `#c` `#gtk3`.
 * [Cheese](https://gitlab.gnome.org/GNOME/cheese) - Application to take photos and videos with the webcam, with fun graphical effects `#c` `#vala` `#gtk3`.
 * [Gradia](https://flathub.org/en/apps/be.alexandervanhee.gradia) - Tool to add background, padding and annotations to screenshots `#python` `#gtk4` `#libadwaita`.
 * [Screenshot](https://flathub.org/en/apps/org.adishatz.Screenshot) - Screenshot application for GNOME-based desktops `#c` `#gtk4` `#libadwaita`.
@@ -440,7 +440,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 #### Upscalers
 
-* [Upscaler](https://gitlab.com/TheEvilSkeleton/Upscaler) - Image upscaler based on [Real-ESRGAN ncnn Vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan) ⭐ 2,290 | 🐛 68 | 🌐 C | 📅 2024-05-10 `#python` `#gtk4` `#libadwaita`.
+* [Upscaler](https://gitlab.com/TheEvilSkeleton/Upscaler) - Image upscaler based on [Real-ESRGAN ncnn Vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan) ⭐ 2,292 | 🐛 68 | 🌐 C | 📅 2024-05-10 `#python` `#gtk4` `#libadwaita`.
 
 ### Technical Graphics
 
@@ -462,9 +462,9 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Vector & Fonts
 
-* [Birdfont](https://github.com/johanmattssonm/birdfont) ⭐ 564 | 🐛 80 | 🌐 Vala | 📅 2025-11-23 - Font editor for creating fonts in TTF, EOT, SVG and BIRDFONT formats `#vala` `#gtk3`.
+* [Birdfont](https://github.com/johanmattssonm/birdfont) ⭐ 565 | 🐛 80 | 🌐 Vala | 📅 2025-11-23 - Font editor for creating fonts in TTF, EOT, SVG and BIRDFONT formats `#vala` `#gtk3`.
 * [Font Downloader](https://github.com/GustavoPeredo/font-downloader) ⭐ 177 | 🐛 39 | 🌐 Python | 📅 2025-09-18 - Download utility for Google Fonts `#python` `#gtk3` `#libhandy`.
-* [Mingle](https://github.com/halfmexican/mingle) ⭐ 55 | 🐛 4 | 🌐 Vala | 📅 2026-04-09 - Application to combine emojis using Google's Emoji Kitchen `#vala` `#gtk4` `#libadwaita`.
+* [Mingle](https://github.com/halfmexican/mingle) ⭐ 54 | 🐛 4 | 🌐 Vala | 📅 2026-04-09 - Application to combine emojis using Google's Emoji Kitchen `#vala` `#gtk4` `#libadwaita`.
 * [Dia](https://gitlab.gnome.org/GNOME/dia) - Diagram editor `#c` `#gtk3`.
 * [Fontforge](https://fontforge.org) - Cross-platform font editor `#c` `#gtk3`.
 * [GNOME Fonts (Font Viewer)](https://apps.gnome.org/FontViewer) - Utility to view and install fonts on your system `#c` `#gtk4` `#libadwaita` `#gnome`.
@@ -480,8 +480,8 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Media Downloaders
 
-* [Parabolic](https://github.com/NickvisionApps/Parabolic) ⭐ 7,554 | 🐛 119 | 🌐 C# | 📅 2026-11-02 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 205,763 | 🐛 2,770 | 🌐 Python | 📅 2026-11-04 graphical fronted `#csharp` `#gtk4` `#libadwaita`.
-* [Gydl](https://github.com/JannikHv/gydl) ⭐ 156 | 🐛 16 | 🌐 Python | 📅 2025-11-28 - GUI wrapper around [youtube-dl](https://github.com/ytdl-org/youtube-dl) ⭐ 141,470 | 🐛 4,114 | 🌐 Python | 📅 2026-11-06 `#python` `#gtk3`.
+* [Parabolic](https://github.com/NickvisionApps/Parabolic) ⭐ 7,562 | 🐛 120 | 🌐 C# | 📅 2026-11-02 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 205,986 | 🐛 2,771 | 🌐 Python | 📅 2026-11-04 graphical fronted `#csharp` `#gtk4` `#libadwaita`.
+* [Gydl](https://github.com/JannikHv/gydl) ⭐ 156 | 🐛 16 | 🌐 Python | 📅 2025-11-28 - GUI wrapper around [youtube-dl](https://github.com/ytdl-org/youtube-dl) ⭐ 141,476 | 🐛 4,114 | 🌐 Python | 📅 2026-11-06 `#python` `#gtk3`.
 
 ### Media Encoders
 
@@ -498,13 +498,13 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Bluetooth
 
-* [Overskride](https://github.com/kaii-lb/overskride) ⭐ 916 | 🐛 20 | 🌐 Rust | 📅 2026-09-01 - Bluetooth and Obex client/device manager `#rust` `#gtk4` `#libadwaita`.
+* [Overskride](https://github.com/kaii-lb/overskride) ⭐ 915 | 🐛 20 | 🌐 Rust | 📅 2026-09-01 - Bluetooth and Obex client/device manager `#rust` `#gtk4` `#libadwaita`.
 * [IP Lookup](https://github.com/Bytezz/IPLookup-gtk) ⭐ 46 | 🐛 0 | 🌐 Python | 📅 2026-01-30 - Simple application to find information about an IP address `#python` `#gtk4` `#libadwaita`.
 
 ### Chat, VoIP, and Phone
 
-* [Dissent](https://github.com/diamondburned/dissent) ⭐ 1,867 | 🐛 131 | 🌐 Go | 📅 2026-11-02 - Discord client `#go` `#gtk4` `#libadwaita`.
-* [Paper Plane](https://github.com/paper-plane-developers/paper-plane) ⭐ 1,066 | 🐛 93 | 🌐 Rust | 📅 2025-01-26 - Telegram client for the GNOME desktop `#rust` `#gtk4` `#libadwaita`.
+* [Dissent](https://github.com/diamondburned/dissent) ⭐ 1,867 | 🐛 132 | 🌐 Go | 📅 2026-11-02 - Discord client `#go` `#gtk4` `#libadwaita`.
+* [Paper Plane](https://github.com/paper-plane-developers/paper-plane) ⭐ 1,065 | 🐛 93 | 🌐 Rust | 📅 2025-01-26 - Telegram client for the GNOME desktop `#rust` `#gtk4` `#libadwaita`.
 * [Discover](https://github.com/trigg/Discover) ⭐ 752 | 🐛 25 | 🌐 Python | 📅 2026-10-23 - Discord overlay with X11 and wlroots support `#python` `#gtk3`.
 * [Calls](https://gitlab.gnome.org/GNOME/calls) - Phone dialer and call handler for cellular modems and VoIP (SIP) `#c` `#vala` `#gtk4` `#libadwaita`.
 * [Chats (Chatty)](https://gitlab.gnome.org/World/Chatty) - Mobile and desktop messaging application supporting SMS, MMS, XMPP and Matrix `#c` `#gtk4` `#libadwaita`.
@@ -523,8 +523,8 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Email, Personal information management (PIM)
 
-* [Hylki](https://github.com/hyprlab/hylki) ⭐ 339 | 🐛 27 | 🌐 Rust | 📅 2026-11-06 - Email client for the GNOME desktop that aims to be privacy-first, fast with a clean interface `#rust` `#gtk4` `#libadwaita`.
-* [Mail](https://github.com/elementary/mail) ⭐ 216 | 🐛 173 | 🌐 Vala | 📅 2026-10-25 - Email application for the elementary OS desktop `#vala` `#gtk3` `#libhandy` `#granite`.
+* [Hylki](https://github.com/hyprlab/hylki) ⭐ 341 | 🐛 33 | 🌐 Rust | 📅 2026-11-07 - Email client for the GNOME desktop that aims to be privacy-first, fast with a clean interface `#rust` `#gtk4` `#libadwaita`.
+* [Mail](https://github.com/elementary/mail) ⭐ 215 | 🐛 173 | 🌐 Vala | 📅 2026-10-25 - Email application for the elementary OS desktop `#vala` `#gtk3` `#libhandy` `#granite`.
 * [Letter](https://github.com/stalvatero/letter) ⭐ 90 | 🐛 16 | 🌐 Vala | 📅 2026-10-23 - Email client for the GNOME desktop, using GNOME Online Accounts, Evolution Data Server and Camel `#vala` `#gtk4` `#libadwaita`.
 * [Astroid](https://astroidmail.github.io) - Lightweight and fast Mail User Agent that provides a GUI to searching, displaying and composing email using [notmuch](https://notmuchmail.org) as backend `#c++` `#gtk3`.
 * [Balsa](https://gitlab.gnome.org/GNOME/balsa) - Lightweight email client `#c` `#gtk3`.
@@ -537,7 +537,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### File Sharing
 
-* [Varia](https://github.com/giantpinkrobots/varia) ⭐ 1,914 | 🐛 57 | 🌐 Python | 📅 2026-10-24 - Download manager based on [aria2](https://github.com/aria2/aria2) ⭐ 43,418 | 🐛 1,187 | 🌐 C++ | 📅 2026-06-25 `#python` `#gtk4` `#libadwaita`.
+* [Varia](https://github.com/giantpinkrobots/varia) ⭐ 1,915 | 🐛 57 | 🌐 Python | 📅 2026-11-07 - Download manager based on [aria2](https://github.com/aria2/aria2) ⭐ 43,428 | 🐛 1,187 | 🌐 C++ | 📅 2026-06-25 `#python` `#gtk4` `#libadwaita`.
 * [Warpinator](https://github.com/linuxmint/warpinator) ⭐ 1,594 | 🐛 68 | 🌐 C | 📅 2026-11-06 - Linux Mint's LAN file sharing program `#c++` `#gtk3`.
 * [Gabut Download Manager](https://github.com/gabutakut/gabutdm) ⭐ 154 | 🐛 7 | 🌐 Vala | 📅 2026-07-14 - Download manager supporting torrents and direct download with Firefox integration  `#vala` `#gtk4` `#libadwaita`.
 * [Torrential](https://github.com/davidmhewitt/torrential) ⭐ 142 | 🐛 46 | 🌐 Rust | 📅 2026-07-15 - Alternative GUI on top of the Transmission BitTorrent client `#vala` `#gtk4` `#granite`.
@@ -565,7 +565,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Network Monitoring
 
-* [Network Monitor](https://github.com/grigio/network-monitor) ⭐ 320 | 🐛 0 | 🌐 Rust | 📅 2026-11-02 - Real-time network connection monitoring tool with GUI & TUI `#rust` `#gtk4` `#libadwaita`.
+* [Network Monitor](https://github.com/grigio/network-monitor) ⭐ 321 | 🐛 0 | 🌐 Rust | 📅 2026-11-02 - Real-time network connection monitoring tool with GUI & TUI `#rust` `#gtk4` `#libadwaita`.
 * [Hotwire](https://github.com/emmanueltouzery/hotwire) ⭐ 246 | 🐛 3 | 🌐 Rust | 📅 2025-11-29 - GUI that leverages the wireshark and tshark infrastructure to capture traffic and explore the contents of tcpdump files `#rust` `#gtk3` `#relm`.
 * [pingpath](https://github.com/yvs2014/pingpath) ⭐ 5 | 🐛 0 | 🌐 C | 📅 2026-07-11 - Network diagnostic tool based on parsing ping output with functionality of traceroute `#c` `#gtk4`.
 * [Echo](https://flathub.org/en/apps/io.github.lo2dev.Echo) - Simple utility to ping websites `#python` `#gtk4` `#libadwaita`.
@@ -586,7 +586,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Remote Desktop
 
-* [Field Monitor](https://github.com/theCapypara/field-monitor) ⭐ 102 | 🐛 30 | 🌐 Rust | 📅 2026-11-06 - Remote desktop client for the GNOME desktop with support for Proxmox & QEMU/KVM virtual machines `#rust` `#gtk4` `#libadwaita`.
+* [Field Monitor](https://github.com/theCapypara/field-monitor) ⭐ 102 | 🐛 31 | 🌐 Rust | 📅 2026-11-07 - Remote desktop client for the GNOME desktop with support for Proxmox & QEMU/KVM virtual machines `#rust` `#gtk4` `#libadwaita`.
 * [GNOME Connections](https://gitlab.gnome.org/GNOME/gnome-connections) - Remote desktop client for the GNOME desktop with RDP and VNC support `#vala` `#gtk3` `#gnome`.
 * [MirrorHall](https://flathub.org/en/apps/eu.nokun.MirrorHall) - Experimental low-latency virtual display application for the GNOME desktop that aims to turn any Linux device into a second monitor over the network using UDP video streaming `#python` `#gtk4` `#libadwaita`.
 * [Remmina](https://gitlab.com/Remmina/Remmina) - Remote desktop client with plugin system and RDP, VNC, SPICE, X2GO, HTTP and SSH support `#c` `#gtk3`.
@@ -644,7 +644,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### WiFi
 
-* [Linux Wifi Hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) ⭐ 4,450 | 🐛 194 | 🌐 Shell | 📅 2026-11-02 - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface `#c` `#gtk3`.
+* [Linux Wifi Hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) ⭐ 4,449 | 🐛 194 | 🌐 Shell | 📅 2026-11-02 - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface `#c` `#gtk3`.
 
 ## Office
 
@@ -654,7 +654,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Book Readers
 
-* [Foliate](https://github.com/johnfactotum/foliate) ⭐ 8,870 | 🐛 341 | 🌐 JavaScript | 📅 2026-04-08 - Simple and modern eBook reader based on [Epub.js](https://github.com/futurepress/epub.js) ⭐ 6,968 | 🐛 516 | 🌐 JavaScript | 📅 2026-03-24 `#gjs` `#javascript` `#gtk4` `#libadwaita`.
+* [Foliate](https://github.com/johnfactotum/foliate) ⭐ 8,871 | 🐛 341 | 🌐 JavaScript | 📅 2026-04-08 - Simple and modern eBook reader based on [Epub.js](https://github.com/futurepress/epub.js) ⭐ 6,968 | 🐛 516 | 🌐 JavaScript | 📅 2026-03-24 `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 * [Bookworm](https://babluboy.github.io/bookworm) - Simple eBook reader for elementary OS `#vala` `#gtk3` `#granite`.
 * [Komikku](https://apps.gnome.org/Komikku) - Manga reader for the GNOME desktop with online and offline reading `#python` `#gtk4` `#libadwaita` `#gnome`.
 
@@ -714,7 +714,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 * [Notes](https://github.com/Blquinn/notes) ⭐ 102 | 🐛 6 | 🌐 Vala | 📅 2023-05-31 - Note-taking application for the GNOME desktop with notebook based categorization, trash and dark theme `#vala` `#gtk4` `#libadwaita`.
 * [Iridium](https://github.com/matze/iridium) ⚠️ Archived - (archived) [Standard Notes](https://standardnotes.org) local-first client `#rust` `#gtk3`.
 * [Noteworthy](https://github.com/SeaDve/Noteworthy) ⚠️ Archived - Modern, fast, and version-controlled Markdown notes application `#rust` `#gtk4` `#libadwaita`.
-* [Outliner](https://github.com/phase1geo/outliner) ⭐ 63 | 🐛 8 | 🌐 Vala | 📅 2026-10-19 - Outlining application for elementary OS `#vala` `#gtk4` `#granite`.
+* [Outliner](https://github.com/phase1geo/outliner) ⭐ 63 | 🐛 8 | 🌐 Vala | 📅 2026-11-07 - Outlining application for elementary OS `#vala` `#gtk4` `#granite`.
 * [Notas](https://github.com/globalcve/Notas) ⭐ 9 | 🐛 0 | 🌐 Rust | 📅 2026-11-05 - Lightweight, encrypted note-taking application supporting AES-256-GCM encryption and Argon2 key derivation `#rust` `#gtk4` `#libadwaita`.
 * [Bookup](https://flathub.org/en/apps/org.gnome.gitlab.ilhooq.Bookup) - Markdown notes manager with SQLite database and PDF export (clone of Notes-Up) `#c` `#gtk4` `#libadwaita`.
 * [Buffer](https://flathub.org/en/apps/org.gnome.gitlab.cheywood.Buffer) - Desktop note-taking application that provides a minimal editing space for things that don't need keeping  `#python` `#gtk4` `#libadwaita`.
@@ -736,7 +736,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### OCR
 
-* [gImageReader](https://github.com/manisandro/gImageReader) ⭐ 2,022 | 🐛 66 | 🌐 C++ | 📅 2026-11-05 - GTK/Qt front-end to [Tesseract] `#c++` `#gtk3`.
+* [gImageReader](https://github.com/manisandro/gImageReader) ⭐ 2,023 | 🐛 66 | 🌐 C++ | 📅 2026-11-05 - GTK/Qt front-end to [Tesseract] `#c++` `#gtk3`.
 * [TextSnatcher](https://github.com/RajSolai/TextSnatcher) ⭐ 1,392 | 🐛 42 | 🌐 Vala | 📅 2024-03-20 - Easy to use OCR application based on [Tesseract] `#vala` `#gtk3` `#granite`.
 * [Frog](https://getfrog.app) - Intuitive text extraction tool for the GNOME desktop `#python` `#gtk4` `#libadwaita`.
 
@@ -744,15 +744,15 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### PDF Tools
 
-* [PDF Arranger](https://github.com/pdfarranger/pdfarranger) ⭐ 6,024 | 🐛 92 | 🌐 Python | 📅 2026-11-06 - PDF editor with merging, splitting, rotating, cropping and rearranging based on [pikepdf](https://github.com/pikepdf/pikepdf) ⭐ 2,818 | 🐛 17 | 🌐 Python | 📅 2026-11-03 `#python` `#gtk3` `#libhandy`.
-* [word-sys's PDF Editor](https://github.com/word-sys/word-sys-pdf-editor) ⭐ 141 | 🐛 1 | 🌐 Python | 📅 2026-10-31 - Simple and user-friendly PDF editor, focused on editing text content in PDF files `#python` `#gtk4` `#libadwaita`.
+* [PDF Arranger](https://github.com/pdfarranger/pdfarranger) ⭐ 6,028 | 🐛 92 | 🌐 Python | 📅 2026-11-06 - PDF editor with merging, splitting, rotating, cropping and rearranging based on [pikepdf](https://github.com/pikepdf/pikepdf) ⭐ 2,818 | 🐛 18 | 🌐 Python | 📅 2026-11-03 `#python` `#gtk3` `#libhandy`.
+* [word-sys's PDF Editor](https://github.com/word-sys/word-sys-pdf-editor) ⭐ 143 | 🐛 2 | 🌐 Python | 📅 2026-10-31 - Simple and user-friendly PDF editor, focused on editing text content in PDF files `#python` `#gtk4` `#libadwaita`.
 * [Censor](https://flathub.org/en/apps/page.codeberg.censor.Censor) - PDF document redaction tool that permanently removes text and images in redacted areas `#python` `#gtk4` `#libadwaita`.
 * [Paper Clip](https://apps.gnome.org/PdfMetadataEditor) - PDF metadata editor `#vala` `#gtk4` `#libadwaita` `#gnome`.
 * [PDF Slicer](https://junrrein.github.io/pdfslicer) - Simple application to extract, merge, rotate and reorder pages of PDF documents with undo/redo support `#c++` `#gtk3`.
 
 ### Presentation
 
-* [Pympress](https://github.com/Cimbali/pympress) ⭐ 1,698 | 🐛 64 | 🌐 Python | 📅 2026-03-29 - Presentation tool designed for dual-screen setups such as presentations and public talks `#python` `#gtk3`.
+* [Pympress](https://github.com/Cimbali/pympress) ⭐ 1,700 | 🐛 64 | 🌐 Python | 📅 2026-03-29 - Presentation tool designed for dual-screen setups such as presentations and public talks `#python` `#gtk3`.
 * [Spice-up](https://github.com/Philip-Scott/Spice-up) ⭐ 605 | 🐛 53 | 🌐 Vala | 📅 2022-03-22 - Web presentation editor `#vala` `#gtk3` `#granite`.
 * [Teleprompter](https://github.com/Nokse22/teleprompter) ⭐ 78 | 🐛 9 | 🌐 Python | 📅 2026-06-24 - Simple application to read scrolling text from your screen `#python` `#gtk4` `#libadwaita`.
 * [pdfpc](https://pdfpc.github.io) - Presentation console with multi-monitor support for PDF files `#vala` `#gtk3`.
@@ -774,12 +774,12 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Desktop Productivity
 
-* [Walker](https://github.com/abenz1267/walker) ⭐ 3,101 | 🐛 27 | 🌐 Rust | 📅 2026-10-08 - Customizable application launcher for Wayland `#rust` `#gtk4`.
-* [StreamController](https://github.com/StreamController/StreamController) ⭐ 1,145 | 🐛 62 | 🌐 Python | 📅 2026-09-21 - Elgato Stream Deck controller with support for plugins `#python` `#gtk4` `#libadwaita`.
+* [Walker](https://github.com/abenz1267/walker) ⭐ 3,100 | 🐛 28 | 🌐 Rust | 📅 2026-10-08 - Customizable application launcher for Wayland `#rust` `#gtk4`.
+* [StreamController](https://github.com/StreamController/StreamController) ⭐ 1,146 | 🐛 62 | 🌐 Python | 📅 2026-09-21 - Elgato Stream Deck controller with support for plugins `#python` `#gtk4` `#libadwaita`.
 * [Szyszka](https://github.com/qarmin/szyszka) ⭐ 987 | 🐛 48 | 🌐 Rust | 📅 2026-06-06 - Fast bulk file renamer `#rust` `#gtk4`.
 * [Sherlock](https://github.com/Skxxtz/sherlock) ⭐ 749 | 🐛 10 | 🌐 Rust | 📅 2026-04-25 - Application/command launcher for Wayland (with the Hyprland tiling window manager in mind) with async widgets and plugins `#rust` `#gtk4`.
 * [TV Series Renamer](https://github.com/mmstick/tv-renamer) ⭐ 152 | 🐛 4 | 🌐 Rust | 📅 2018-10-28 - (inactive >5yrs) TV series renaming application that support adding titles to episodes `#rust` `#gtk3`.
-* [Notify](https://github.com/ranfdev/Notify) ⭐ 113 | 🐛 18 | 🌐 Rust | 📅 2026-02-06 - Client for ntfy `#rust` `#gtk4` `#libadwaita`.
+* [Notify](https://github.com/ranfdev/Notify) ⭐ 114 | 🐛 18 | 🌐 Rust | 📅 2026-02-06 - Client for ntfy `#rust` `#gtk4` `#libadwaita`.
 * [Ticket Booth](https://github.com/aleiepure/ticketbooth) ⚠️ Archived - Application to keep track of TV series/movies with TMDB's API `#python` `#gtk4` `#libadwaita`.
 * [Cigale](https://github.com/emmanueltouzery/cigale) ⭐ 85 | 🐛 1 | 🌐 Rust | 📅 2025-11-29 - Timesheet for your activities with support for emails, Git, GitLab and Stack Exchange `#rust` `#gtk3` `#relm`.
 * [Workspaces](https://github.com/DevAlien/workspaces) ⭐ 77 | 🐛 24 | 🌐 Vala | 📅 2021-02-21 - (inactive >5yrs) Desktop workpaces for elementary OS `#vala` `#gtk3` `#granite`.
@@ -831,7 +831,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Project Management
 
-* [Planify](https://github.com/alainm23/planify) ⭐ 5,787 | 🐛 209 | 🌐 Vala | 📅 2026-10-30 - Project and task manager with Todoist support `#vala` `#gtk4` `#libadwaita`.
+* [Planify](https://github.com/alainm23/planify) ⭐ 5,790 | 🐛 211 | 🌐 Vala | 📅 2026-11-07 - Project and task manager with Todoist support `#vala` `#gtk4` `#libadwaita`.
 * [Planner](https://gitlab.gnome.org/World/planner) - Cross-platform project management tool, for planning, scheduling and tracking projects `#c` `#gtk3`.
 * [Progress](https://flathub.org/en/apps/io.github.smolblackcat.Progress) - Simple kanban-style task organizer `#c++` `#gtk4` `#libadwaita`.
 * [Queue](https://flathub.org/en/apps/io.github.dprietob.queue) - Simple task manager supporting task groups and built-in backups `#vala` `#gtk4` `#libadwaita`.
@@ -843,7 +843,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 * [Flowtime](https://github.com/Diego-Ivan/Flowtime) ⭐ 136 | 🐛 13 | 🌐 Vala | 📅 2025-04-28 - Pomodoro timer with statistics `#vala` `#gtk4` `#libadwaita`.
 * [hamster-gtk](https://github.com/projecthamster/hamster-gtk) ⭐ 116 | 🐛 75 | 🌐 Python | 📅 2021-08-10 - Time tracker provided by `hamster-lib` `#python` `#gtk3`.
 * [Play Timer (mpris-timer)](https://github.com/efogdev/mpris-timer) ⭐ 91 | 🐛 7 | 🌐 Go | 📅 2025-10-20 - Timer application that uses the MPRIS interface `#go` `#gtk4` `#libadwaita`.
-* [Timer](https://github.com/vikdevelop/timer) ⭐ 67 | 🐛 0 | 🌐 Python | 📅 2026-08-31 - Simple countdown timer `#python` `#gtk4` `#libadwaita`.
+* [Timer](https://github.com/vikdevelop/timer) ⭐ 67 | 🐛 1 | 🌐 Python | 📅 2026-08-31 - Simple countdown timer `#python` `#gtk4` `#libadwaita`.
 * [Tomato](https://github.com/luizaugustomm/tomato) ⚠️ Archived - Pomodoro timer for elementary OS `#vala` `#gtk3` `#granite`.
 * [Retro](https://github.com/sonnyp/Retro) ⭐ 38 | 🐛 6 | 🌐 JavaScript | 📅 2025-10-13 - Customizable digital clock `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 * [Hourglass](https://github.com/sgpthomas/hourglass) ⭐ 34 | 🐛 7 | 🌐 Vala | 📅 2026-10-16 - Simple time keeping application for elementary OS `#vala` `#gtk4` `#granite`.
@@ -863,7 +863,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### To-do Lists
 
-* [Getting Things GNOME](https://github.com/getting-things-gnome/gtg) ⭐ 605 | 🐛 206 | 🌐 Python | 📅 2026-10-24 - Personal task organizer for the GNOME desktop inspired by [Getting Things Done](https://gettingthingsdone.com/what-is-gtd) `#python` `#gtk3`.
+* [Getting Things GNOME](https://github.com/getting-things-gnome/gtg) ⭐ 605 | 🐛 207 | 🌐 Python | 📅 2026-10-24 - Personal task organizer for the GNOME desktop inspired by [Getting Things Done](https://gettingthingsdone.com/what-is-gtd) `#python` `#gtk3`.
 * [Effitask](https://github.com/sanpii/effitask) ⭐ 236 | 🐛 19 | 🌐 Rust | 📅 2026-11-03 - [todo.txt] client with due, flag, future note and schedule addons `#rust` `#gtk3` `#relm`.
 * [Remembrance](https://github.com/dgsasha/remembrance) ⭐ 161 | 🐛 37 | 🌐 Python | 📅 2026-02-01 - Simple reminder app `#python` `#gtk4` `#libadwaita`.
 * [IPlan](https://github.com/iman-salmani/iplan) ⭐ 136 | 🐛 28 | 🌐 Rust | 📅 2024-07-04 - Personal task manager with project-based task grouping, task timers and drag and drop arranging `#rust` `#gtk4` `#libadwaita`.
@@ -883,7 +883,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Chat Bots and Virtual assistants
 
-* [Newelle](https://github.com/qwersyk/Newelle) ⭐ 1,501 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Virtual assistant (based on GPT4All) that interacts with the system by running shell commands and execute Python code `#python` `#gtk4` `#libadwaita`.
+* [Newelle](https://github.com/qwersyk/Newelle) ⭐ 1,499 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Virtual assistant (based on GPT4All) that interacts with the system by running shell commands and execute Python code `#python` `#gtk4` `#libadwaita`.
 
 ## Academia and Research
 
@@ -912,7 +912,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Physics
 
 * [balistica](https://github.com/fusilero/balistica) ⭐ 69 | 🐛 9 | 🌐 Vala | 📅 2026-07-29 - Exterior ballistics calculator `#vala` `#gtk3`.
-* [AstraLite](https://github.com/art-den/astra_lite) ⭐ 54 | 🐛 8 | 🌐 Rust | 📅 2026-11-06 - Software for deepsky astrophotography and live stacking `#rust` `#gtk3`.
+* [AstraLite](https://github.com/art-den/astra_lite) ⭐ 54 | 🐛 8 | 🌐 Rust | 📅 2026-11-07 - Software for deepsky astrophotography and live stacking `#rust` `#gtk3`.
 * [Navier Stokes Spectral Method](https://github.com/Minard-Jules/Navier_Stokes_Spectral_Method) ⭐ 5 | 🐛 0 | 🌐 Fortran | 📅 2026-06-14 - Numerical simulation of the 2D Navier-Stokes equations in the ω − ψ formulation using the pseudo-spectral method `#fortran` `#gtk4`.
 * [Electra](https://github.com/art-den/electra_stacking) ⭐ 4 | 🐛 0 | 🌐 Rust | 📅 2025-05-18 - Software for stacking of deep sky astronomical images `#rust` `#gtk3`.
 * [Cadabra](https://cadabra.science) - Symbolic computer algebra system, designed specifically for the solution of problems encountered in quantum and classical field theory `#c++` `#python` `#gtk3`.
@@ -991,8 +991,8 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Containers
 
-* [Virtual Machine Manager (virt-manager)](https://github.com/virt-manager/virt-manager) ⭐ 3,306 | 🐛 179 | 🌐 Python | 📅 2026-09-04 - Graphical tool for managing virtual machines such as QEMU/KVM, Xen, LXC `#python` `#gtk3`.
-* [Pods](https://github.com/marhkb/pods) ⭐ 1,112 | 🐛 36 | 🌐 Rust | 📅 2026-10-22 - Podman containers manager `#rust` `#gtk4` `#libadwaita`.
+* [Virtual Machine Manager (virt-manager)](https://github.com/virt-manager/virt-manager) ⭐ 3,306 | 🐛 180 | 🌐 Python | 📅 2026-09-04 - Graphical tool for managing virtual machines such as QEMU/KVM, Xen, LXC `#python` `#gtk3`.
+* [Pods](https://github.com/marhkb/pods) ⭐ 1,113 | 🐛 36 | 🌐 Rust | 📅 2026-10-22 - Podman containers manager `#rust` `#gtk4` `#libadwaita`.
 * [BoxBuddy](https://github.com/Dvlv/BoxBuddyRS) ⭐ 569 | 🐛 43 | 🌐 Rust | 📅 2026-10-05 - Graphical interface for Distrobox `#rust` `#gtk4` `#libadwaita`.
 * [Atoms](https://github.com/AtomsDevs/Atoms) ⭐ 447 | 🐛 1 | 🌐 Vala | 📅 2026-09-01 - Linux Chroot environments manager `#python` `#gtk4` `#libadwaita`.
 * [Toolbx Tuner](https://github.com/13hannes11/toolbx-tuner) ⭐ 74 | 🐛 5 | 🌐 Rust | 📅 2025-08-29 - [toolbx](https://containertoolbx.org) containers manager `#rust` `#gtk4` `#libadwaita`.
@@ -1036,13 +1036,13 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 #### Neovim GUIs
 
-* [GNvim](https://github.com/vhakulinen/gnvim) ⭐ 1,962 | 🐛 11 | 🌐 Rust | 📅 2026-06-28 - GUI for Neovim without any web bloat `#rust` `#gtk4` `#libadwaita`.
+* [GNvim](https://github.com/vhakulinen/gnvim) ⭐ 1,962 | 🐛 12 | 🌐 Rust | 📅 2026-06-28 - GUI for Neovim without any web bloat `#rust` `#gtk4` `#libadwaita`.
 * [neovim-gtk](https://github.com/Lyude/neovim-gtk) ⭐ 174 | 🐛 51 | 🌐 Rust | 📅 2026-11-05 - GUI for Neovim with ligatures support `#rust` `#gtk4`.
 * [nvim-pygtk3](https://github.com/rliang/nvim-pygtk3) ⭐ 53 | 🐛 2 | 🌐 Python | 📅 2018-12-04 - PyGTK3 frontend to Neovim with some visual GUI elements `#python` `#gtk3`.
 
 #### Simple Editors and Light IDEs
 
-* [Xed](https://github.com/linuxmint/xed) ⭐ 561 | 🐛 272 | 🌐 C | 📅 2026-09-21 - Small and lightweight text editor `#c` `#gtk3` `#libxapp`.
+* [Xed](https://github.com/linuxmint/xed) ⭐ 561 | 🐛 267 | 🌐 C | 📅 2026-11-07 - Small and lightweight text editor `#c` `#gtk3` `#libxapp`.
 * [elementary Code](https://github.com/elementary/code) ⭐ 528 | 🐛 153 | 🌐 Vala | 📅 2026-11-05 - Code editor designed for elementary OS `#vala` `#gtk3` `#granite` `#elementary`.
 * [Pluma](https://github.com/mate-desktop/pluma) ⭐ 190 | 🐛 120 | 🌐 C | 📅 2026-10-19 - Text editor for the MATE desktop `#c` `#gtk3`.
 * [elementary IDE](https://github.com/donadigo/elementary-ide) ⭐ 74 | 🐛 12 | 🌐 Vala | 📅 2017-08-29 - Unofficial elementary OS-oriented IDE `#vala` `#gtk3` `#granite`.
@@ -1095,7 +1095,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Terminals
 
-* [Guake](https://github.com/Guake/guake) ⭐ 4,670 | 🐛 470 | 🌐 Python | 📅 2026-08-19 - Dropdown terminal for the GNOME desktop `#python` `#gtk3`.
+* [Guake](https://github.com/Guake/guake) ⭐ 4,669 | 🐛 470 | 🌐 Python | 📅 2026-08-19 - Dropdown terminal for the GNOME desktop `#python` `#gtk3`.
 * [Black Box](https://gitlab.gnome.org/raggesilver/blackbox) - Terminal with customizable UI `#vala` `#gtk4` `#libadwaita`.
 * [Ghostty](https://ghostty.org) - Cross-platform terminal emulator with GPU acceleration `#zig` `#gtk4` `#libadwaita`.
 * [GNOME Console](https://apps.gnome.org/Console) - Minimal terminal for the GNOME desktop `#c` `#gtk4` `#libadwaita` `#gnome`.
@@ -1152,7 +1152,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ## Design
 
-* [Paleta](https://github.com/nate-xyz/paleta) ⭐ 135 | 🐛 18 | 🌐 Rust | 📅 2024-05-26 - Image dominant color extractor `#rust` `#gtk4` `#libadwaita`.
+* [Paleta](https://github.com/nate-xyz/paleta) ⭐ 136 | 🐛 18 | 🌐 Rust | 📅 2024-05-26 - Image dominant color extractor `#rust` `#gtk4` `#libadwaita`.
 * [Emulsion](https://github.com/lainsce/emulsion) ⚠️ Archived - Color palette manager `#vala` `#gtk4` `#libadwaita`.
 * [Harvey](https://github.com/danrabbit/harvey) ⭐ 56 | 🐛 6 | 🌐 Vala | 📅 2024-08-29 - Color contrast calculator `#vala` `#gtk4` `#granite`.
 * [LookBook](https://github.com/danrabbit/lookbook) ⚠️ Archived - System icon browser `#vala` `#gtk3` `#granite`.
@@ -1177,7 +1177,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Backup
 
-* [Timeshift](https://github.com/linuxmint/timeshift) ⭐ 4,330 | 🐛 236 | 🌐 Vala | 📅 2026-10-27 - System restore tool for Linux that creates filesystem snapshots using rsync or Btrfs snapshots `#vala` `#gtk3`.
+* [Timeshift](https://github.com/linuxmint/timeshift) ⭐ 4,331 | 🐛 236 | 🌐 Vala | 📅 2026-10-27 - System restore tool for Linux that creates filesystem snapshots using rsync or Btrfs snapshots `#vala` `#gtk3`.
 * [Butter](https://github.com/zhangyuannie/butter) ⭐ 160 | 🐛 19 | 🌐 Rust | 📅 2026-07-04 - Btrfs snapshot manager `#rust` `#gtk4` `#libadwaita`.
 * [Cronopete](https://www.rastersoft.com/programas/cronopete.html) - Backup utility similar to Apple Time Machine `#vala` `#gtk3`.
 * [Déjà Dup Backups](https://apps.gnome.org/DejaDup) - Simple backup tool for the GNOME desktop `#vala` `#gtk4` `#libadwaita` `#gnome`.
@@ -1195,14 +1195,14 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Disk Imaging
 
-* [Popsicle](https://github.com/pop-os/popsicle) ⭐ 864 | 🐛 31 | 🌐 Fluent | 📅 2026-11-06 - Utility for flashing multiple USB devices in parallel `#rust` `#gtk3`.
+* [Popsicle](https://github.com/pop-os/popsicle) ⭐ 866 | 🐛 31 | 🌐 Fluent | 📅 2026-11-06 - Utility for flashing multiple USB devices in parallel `#rust` `#gtk3`.
 * [Imageburner](https://github.com/artemanufrij/imageburner) ⭐ 42 | 🐛 18 | 🌐 Vala | 📅 2020-10-25 - Simple imageburner for SD/USB designed for elementary OS `#vala` `#gtk3` `#granite`.
 * [Brasero](https://gitlab.gnome.org/GNOME/brasero) - Application to burn CD/DVD designed to be as simple as possible `#c` `#gtk3`.
 * [GNOME MultiWriter](https://gitlab.gnome.org/GNOME/gnome-multi-writer) - Utility to write an ISO file to multiple USB devices at once `#c` `#gtk3`.
 
 ### File Management
 
-* [Nemo](https://github.com/linuxmint/nemo) ⭐ 1,581 | 🐛 290 | 🌐 C | 📅 2026-11-06 - Default file manager of the Cinnamon desktop (fork of Nautilus) `#c` `#gtk3`.
+* [Nemo](https://github.com/linuxmint/nemo) ⭐ 1,582 | 🐛 291 | 🌐 C | 📅 2026-11-07 - Default file manager of the Cinnamon desktop (fork of Nautilus) `#c` `#gtk3`.
 * [Files (elementary)](https://github.com/elementary/files) ⭐ 366 | 🐛 339 | 🌐 Vala | 📅 2026-10-26 - File browser for elementary OS `#vala` `#gtk3` `#libhandy` `#granite`.
 * [Caja](https://github.com/mate-desktop/caja) ⭐ 319 | 🐛 509 | 🌐 C | 📅 2026-10-19 - File manager for the MATE desktop  `#c` `#gtk3`.
 * [Hyperplane](https://github.com/kra-mo/hyperplane) ⚠️ Archived - Non-hierarchical file manager `#python` `#gtk4` `#libadwaita`.
@@ -1218,14 +1218,14 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### File Search
 
-* [FSearch](https://github.com/cboxdoerfer/fsearch) ⭐ 4,541 | 🐛 180 | 🌐 C | 📅 2026-10-26 - A fast file search utility `#c` `#gtk3`.
+* [FSearch](https://github.com/cboxdoerfer/fsearch) ⭐ 4,542 | 🐛 180 | 🌐 C | 📅 2026-10-26 - A fast file search utility `#c` `#gtk3`.
 * [Clapgrep](https://flathub.org/en/apps/de.leopoldluley.Clapgrep) - Application to search through file contents of all sorts of text files, PDFs and office documents `#rust` `#gtk4` `#libadwaita`.
 * [Snoop](https://flathub.org/en/apps/de.philippun1.Snoop) - Application (with Nautilus extension) to search through file contents in a given folder `#vala` `#gtk4` `#libadwaita`.
 
 ### File Synchronisation
 
-* [Celeste](https://github.com/hwittenborn/celeste) ⭐ 1,620 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-28 - File synchronization client that can sync with any cloud provider `#rust` `#gtk4` `#libadwaita`.
-* [Syncthing-GTK](https://github.com/syncthing/syncthing-gtk) ⭐ 1,405 | 🐛 97 | 🌐 Python | 📅 2023-04-24 - UI for [Syncthing](https://syncthing.net) with the same features as the Web UI `#python` `#gtk3`.
+* [Celeste](https://github.com/hwittenborn/celeste) ⭐ 1,619 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-28 - File synchronization client that can sync with any cloud provider `#rust` `#gtk4` `#libadwaita`.
+* [Syncthing-GTK](https://github.com/syncthing/syncthing-gtk) ⭐ 1,406 | 🐛 97 | 🌐 Python | 📅 2023-04-24 - UI for [Syncthing](https://syncthing.net) with the same features as the Web UI `#python` `#gtk3`.
 
 ### File Encryption
 
@@ -1241,10 +1241,10 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Software Installation
 
 * [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) ⭐ 1,867 | 🐛 48 | 🌐 Vala | 📅 2026-11-06 - Proton version manager `#vala` `#gtk4` `#libadwaita`.
-* [Extension Manager](https://github.com/mjakeman/extension-manager) ⭐ 1,393 | 🐛 27 | 🌐 C | 📅 2026-11-06 - Utility for browsing and installing GNOME Shell Extensions `#c` `#gtk4` `#libadwaita`.
-* [Shelly](https://github.com/Seafoam-Labs/Shelly-ALPM) ⭐ 1,250 | 🐛 28 | 🌐 Zig | 📅 2026-11-06 - Package manager for Arch Linux, CachyOS supporting AUR, Flathub, Flatpak, AppImage, and native Arch Linux packages `#zig` `#gtk4`.
+* [Extension Manager](https://github.com/mjakeman/extension-manager) ⭐ 1,404 | 🐛 27 | 🌐 C | 📅 2026-11-06 - Utility for browsing and installing GNOME Shell Extensions `#c` `#gtk4` `#libadwaita`.
+* [Shelly](https://github.com/Seafoam-Labs/Shelly-ALPM) ⭐ 1,254 | 🐛 31 | 🌐 Zig | 📅 2026-11-07 - Package manager for Arch Linux, CachyOS supporting AUR, Flathub, Flatpak, AppImage, and native Arch Linux packages `#zig` `#gtk4`.
 * [Nix Software Center](https://github.com/snowfallorg/nix-software-center) ⭐ 860 | 🐛 59 | 🌐 Rust | 📅 2026-04-07 - Software center to easity install and manage Nix packages `#rust` `#gtk4` `#libadwaita` `#relm4`.
-* [AdwSteamGtk](https://github.com/Foldex/AdwSteamGtk) ⭐ 413 | 🐛 5 | 🌐 Python | 📅 2026-10-27 - [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) ⭐ 1,615 | 🐛 19 | 🌐 CSS | 📅 2026-08-02 skin installer `#python` `#gtk4` `#libadwaita`.
+* [AdwSteamGtk](https://github.com/Foldex/AdwSteamGtk) ⭐ 412 | 🐛 5 | 🌐 Python | 📅 2026-10-27 - [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) ⭐ 1,614 | 🐛 19 | 🌐 CSS | 📅 2026-08-02 skin installer `#python` `#gtk4` `#libadwaita`.
 * [Icicle](https://github.com/snowfallorg/icicle) ⭐ 109 | 🐛 10 | 🌐 Rust | 📅 2026-08-24 - Graphical installer for NixOS based distributions `#rust` `#gtk4` `#libadwaita` `#relm4`.
 * [Pin It!](https://github.com/ryonakano/pinit) ⭐ 82 | 🐛 10 | 🌐 Vala | 📅 2026-10-03 - Portable applications shortcut creator `#vala` `#gtk4` `#libadwaita`.
 * [SimpleSteamTinker](https://github.com/JordanViknar/SimpleSteamTinker) ⚠️ Archived - Simple, and modern Adwaita alternative to SteamTinkerLaunch `#lua` `#gtk4` `#libadwaita`.
@@ -1263,23 +1263,23 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### System and File Cleaning
 
-* [Czkawka](https://github.com/qarmin/czkawka) ⭐ 34,895 | 🐛 288 | 🌐 Fluent | 📅 2026-11-06 - Cross-platform, simple and fast application to remove unnecessary files from your computer `#rust` `#gtk4`.
+* [Czkawka](https://github.com/qarmin/czkawka) ⭐ 34,931 | 🐛 290 | 🌐 Fluent | 📅 2026-11-07 - Cross-platform, simple and fast application to remove unnecessary files from your computer `#rust` `#gtk4`.
 * [BleachBit](https://www.bleachbit.org) - Cross-platform Disk space cleaner and system optimizer `#python` `#gtk3`.
 * [Detwinner](https://neatdecisions.com/products/detwinner-linux) - Duplicate file finder `#c++` `#gtk3`.
 
 ### System Configuration
 
-* [Solaar](https://github.com/pwr-Solaar/Solaar) ⭐ 9,550 | 🐛 144 | 🌐 Python | 📅 2026-08-18 - Manager for many Logitech keyboards, mice, and other devices that connect wirelessly to a Unifying, Bolt, Lightspeed or Nano receiver, USB cable or Bluetooth `#python` `#gtk3`.
-* [LACT](https://github.com/ilya-zlobintsev/LACT) ⭐ 5,872 | 🐛 105 | 🌐 Rust | 📅 2026-11-05 - Application to control AMD, Nvidia or Intel graphical processing units (GPU) on Linux `#rust` `#gtk4` `#libadwaita`.
-* [Lan Mouse](https://github.com/feschber/lan-mouse) ⭐ 5,463 | 🐛 159 | 🌐 Rust | 📅 2026-11-01 - Mouse and keyboard sharing software (software KVM switch) designed for Wayland `#rust` `#gtk4` `#libadwaita`.
-* [Hidamari](https://github.com/jeffshee/hidamari) ⭐ 2,139 | 🐛 139 | 🌐 Python | 📅 2026-07-09 - Application to configure video wallpaper for X11 and Wayland `#python` `#gtk3`.
-* [Flatseal](https://github.com/tchx84/Flatseal) ⭐ 1,816 | 🐛 97 | 🌐 JavaScript | 📅 2026-10-31 - Flatpak permission manager `#gjs` `#javascript` `#gtk4` `#libadwaita`.
-* [ReGreet](https://github.com/rharish101/ReGreet) ⭐ 840 | 🐛 26 | 🌐 Rust | 📅 2026-10-29 - GTK-based [greetd](https://git.sr.ht/~kennylevinsen/greetd) greeter `#rust` `#gtk4` `#relm4`.
+* [Solaar](https://github.com/pwr-Solaar/Solaar) ⭐ 9,552 | 🐛 144 | 🌐 Python | 📅 2026-08-18 - Manager for many Logitech keyboards, mice, and other devices that connect wirelessly to a Unifying, Bolt, Lightspeed or Nano receiver, USB cable or Bluetooth `#python` `#gtk3`.
+* [LACT](https://github.com/ilya-zlobintsev/LACT) ⭐ 5,882 | 🐛 104 | 🌐 Rust | 📅 2026-11-07 - Application to control AMD, Nvidia or Intel graphical processing units (GPU) on Linux `#rust` `#gtk4` `#libadwaita`.
+* [Lan Mouse](https://github.com/feschber/lan-mouse) ⭐ 5,463 | 🐛 160 | 🌐 Rust | 📅 2026-11-01 - Mouse and keyboard sharing software (software KVM switch) designed for Wayland `#rust` `#gtk4` `#libadwaita`.
+* [Hidamari](https://github.com/jeffshee/hidamari) ⭐ 2,140 | 🐛 139 | 🌐 Python | 📅 2026-07-09 - Application to configure video wallpaper for X11 and Wayland `#python` `#gtk3`.
+* [Flatseal](https://github.com/tchx84/Flatseal) ⭐ 1,817 | 🐛 97 | 🌐 JavaScript | 📅 2026-10-31 - Flatpak permission manager `#gjs` `#javascript` `#gtk4` `#libadwaita`.
+* [ReGreet](https://github.com/rharish101/ReGreet) ⭐ 840 | 🐛 25 | 🌐 Rust | 📅 2026-11-07 - GTK-based [greetd](https://git.sr.ht/~kennylevinsen/greetd) greeter `#rust` `#gtk4` `#relm4`.
 * [SaveDesktop](https://github.com/vikdevelop/SaveDesktop) ⭐ 826 | 🐛 6 | 🌐 Python | 📅 2026-10-13 - Plasma, Xfce and GNOME-based DE configuration saver (icons, fonts, themes, settings, background, GNOME extensions, Flatpak permissions and more) `#python` `#gtk4` `#libadwaita`.
 * [NixOS Configuration Editor](https://github.com/vlinkz/nixos-conf-editor) ⭐ 684 | 🐛 13 | 🌐 Rust | 📅 2026-02-15 - Application for editing NixOS configurations `#rust` `#gtk4` `#libadwaita` `#relm4`.
-* [Warehouse](https://github.com/flattool/warehouse) ⭐ 632 | 🐛 76 | 🌐 Python | 📅 2026-07-22 - Toolbox for managing Flatpak packages (view info, manage user data, pin versions, change version, install/uninstall, etc.) `#python` `#gtk4` `#libadwaita`.
+* [Warehouse](https://github.com/flattool/warehouse) ⭐ 631 | 🐛 76 | 🌐 Python | 📅 2026-07-22 - Toolbox for managing Flatpak packages (view info, manage user data, pin versions, change version, install/uninstall, etc.) `#python` `#gtk4` `#libadwaita`.
 * [EasySSH](https://github.com/muriloventuroso/easyssh) ⭐ 554 | 🐛 55 | 🌐 Vala | 📅 2026-10-21 - SSH connection manager `#vala` `#gtk3`.
-* [Luminance](https://github.com/sidevesh/Luminance) ⭐ 182 | 🐛 11 | 🌐 C | 📅 2026-08-09 - Simple application to control brightness of displays (including external) supporting DDC/CI `#c` `#gtk4` `#libadwaita`.
+* [Luminance](https://github.com/sidevesh/Luminance) ⭐ 183 | 🐛 12 | 🌐 C | 📅 2026-08-09 - Simple application to control brightness of displays (including external) supporting DDC/CI `#c` `#gtk4` `#libadwaita`.
 * [Dynamic Wallpaper](https://github.com/dusansimic/dynamic-wallpaper) ⭐ 156 | 🐛 22 | 🌐 Python | 📅 2024-11-09 - Dynamic wallpaper creator for GNOME 42 `#python` `#gtk4` `#libadwaita`.
 * [Embellish](https://github.com/getnf/embellish) ⭐ 68 | 🐛 0 | 🌐 Vala | 📅 2026-11-05 - Application to install and manage Nerd Fonts on the system `#gjs` `#javascript` `#gtk4` `#libadwaita`.
 * [Wardrobe](https://github.com/SwordPuffin/Wardrobe) ⭐ 37 | 🐛 3 | 🌐 Python | 📅 2026-08-27 - Utility to download GNOME shell extensions and GTK themes and icon packs `#python` `#gtk4` `#libadwaita`.
@@ -1359,8 +1359,8 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ## Gaming
 
-* [DeSmuME](https://github.com/TASEmulators/desmume) ⭐ 3,677 | 🐛 96 | 🌐 C++ | 📅 2026-11-06 - Cross-platform Nintendo DS emulator `#c++` `#gtk3`.
-* [An Anime Game launcher](https://github.com/an-anime-team/an-anime-game-launcher) ⭐ 2,296 | 🐛 123 | 🌐 Fluent | 📅 2026-10-21 - Genshin Impact launcher for Linux with telemetry disabling `#rust` `#gtk4` `#relm4` `#libadwaita`.
+* [DeSmuME](https://github.com/TASEmulators/desmume) ⭐ 3,678 | 🐛 96 | 🌐 C++ | 📅 2026-11-06 - Cross-platform Nintendo DS emulator `#c++` `#gtk3`.
+* [An Anime Game launcher](https://github.com/an-anime-team/an-anime-game-launcher) ⭐ 2,299 | 🐛 123 | 🌐 Fluent | 📅 2026-10-21 - Genshin Impact launcher for Linux with telemetry disabling `#rust` `#gtk4` `#relm4` `#libadwaita`.
 * [Cartridges](https://github.com/kra-mo/cartridges) ⚠️ Archived - Game launcher with Steam, Lutris, Heroic, Legendary, Bottles, itch and RetroArch library import `#python` `#gtk4` `#libadwaita`.
 * [Epic Asset Manager](https://github.com/AchetaGames/Epic-Asset-Manager) ⭐ 529 | 🐛 92 | 🌐 Rust | 📅 2026-03-23 - Unofficial client to install Unreal Engine, download and manage purchased assets, projects, plugins and games from the Epic Games Store `#rust` `#gtk4` `#libadwaita`.
 * [Keypunch](https://github.com/bragefuglseth/keypunch) ⭐ 289 | 🐛 24 | 🌐 Rust | 📅 2026-09-27 - Keyboard typing test like monkeytype `#rust` `#gtk4` `#libadwaita` `#gnome`.
@@ -1469,9 +1469,9 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ## Weather Viewers
 
-* [Mousam](https://github.com/amit9838/mousam) ⭐ 492 | 🐛 44 | 🌐 Python | 📅 2026-11-06 - Lightweight weather application with dynamically changing gradient-based background according to current weather condition `#python` `#gtk4` `#libadwaita`.
+* [Mousam](https://github.com/amit9838/mousam) ⭐ 492 | 🐛 45 | 🌐 Python | 📅 2026-11-07 - Lightweight weather application with dynamically changing gradient-based background according to current weather condition `#python` `#gtk4` `#libadwaita`.
 * [Nimbus](https://github.com/danrabbit/nimbus) ⭐ 84 | 🐛 14 | 🌐 Vala | 📅 2024-09-05 - Minimal weather applet `#vala` `#gtk4` `#granite`.
-* [Emergency alerts](https://github.com/leolost2605/emergency-alerts) ⭐ 24 | 🐛 22 | 🌐 Vala | 📅 2026-09-09 - Simple application that sends emergency alerts about the specified location `#vala` `#gtk4` `#granite`.
+* [Emergency alerts](https://github.com/leolost2605/emergency-alerts) ⭐ 24 | 🐛 23 | 🌐 Vala | 📅 2026-09-09 - Simple application that sends emergency alerts about the specified location `#vala` `#gtk4` `#granite`.
 * [GNOME Weather](https://apps.gnome.org/Weather) - Weather application for the GNOME desktop `#gjs` `#typescript` `#gtk4` `#libadwaita` `#gnome`.
 * [GTK Meteo](https://flathub.org/en/apps/ch.bailu.gtk_meteo) - Forecast application using OpenWeatherMap API `#kotlin` `#gtk4` `#libadwaita`.
 * [Meteo](https://gitlab.com/bitseater/meteo) - Weather forecast application, using OSM maps and data from the Meteorologisk institutt Norge `#vala` `#gtk3`.
@@ -1491,4 +1491,4 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
